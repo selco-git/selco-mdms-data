@@ -1,6 +1,6 @@
 {
-  "tenantId": "ka",
-  "moduleName": "selco-pgr",
+  "tenantId": "pg",
+  "moduleName": "Incident",
   "ServiceDefs": [
     {
       "serviceCode": "CrackPanelStone",
