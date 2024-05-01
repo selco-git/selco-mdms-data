@@ -1,37 +1,36 @@
 {
-  "tenantId": "ka",
-  "moduleName": "selco-pgr",
+  "tenantId": "pg",
+  "moduleName": "Incident",
   "Block": [
-	{
+    {
       "code": "raichur.lingasugur",
-      "name": "Lingasugur ",
-	  "districtCode" : "RAICHUR",
-      "active": true,
+      "name": "Lingasugur",
+      "districtCode": "RAICHUR",
+      "active": true
     },
-	{
+    {
       "code": "raichur.lingasugur",
-      "name": "Devadurga  ",
-	  "districtCode" : "RAICHUR",
-      "active": true,
+      "name": "Devadurga",
+      "districtCode": "RAICHUR",
+      "active": true
     },
-	{
+    {
       "code": "raichur.raichur ",
-      "name": "Raichur  ",
-	  "districtCode" : "RAICHUR",
-      "active": true,
+      "name": "Raichur",
+      "districtCode": "RAICHUR",
+      "active": true
     },
-	{
+    {
       "code": "raichur.manvi",
-      "name": "Manvi ",
-	  "districtCode" : "RAICHUR",
-      "active": true,
+      "name": "Manvi",
+      "districtCode": "RAICHUR",
+      "active": true
     },
-	{
+    {
       "code": "raichur.sindhanur",
-      "name": "Sindhanur ",
-	  "districtCode" : "RAICHUR",
-      "active": true,
-    } 
+      "name": "Sindhanur",
+      "districtCode": "RAICHUR",
+      "active": true
+    }
   ]
-  
 }
