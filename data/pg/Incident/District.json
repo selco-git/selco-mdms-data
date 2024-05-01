@@ -1,11 +1,11 @@
 {
   "tenantId": "ka",
-  "moduleName": "selco-pgr",
+  "moduleName": "Incident",
   "District": [
 	{
       "code": "RAICHUR",
       "name": "Raichur",
-      "active": true,
+      "active": true
     }
   ]
   
