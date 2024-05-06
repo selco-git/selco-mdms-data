@@ -35,6 +35,43 @@
       },
       "address": "Karnataka",
       "contactNumber": "6362222593"
+    },
+    {
+      "code": "pg",
+      "name": "State",
+      "description": "State",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "centreType": "Sub Centre",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "PHC",
+      "imageId": null,
+      "domainUrl": "www.stae.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "pg.state@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "State",
+        "localName": "Demo State",
+        "districtCode": null,
+        "districtName": null,
+        "blockCode": null,
+        "districtTenantCode": "pg",
+        "regionName": "State- Region",
+        "ulbGrade": "ST",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+        "ddrName": null
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "0978-7645345"
     }
   ]
 }
