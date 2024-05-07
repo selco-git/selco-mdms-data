@@ -23,7 +23,7 @@
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.lingasugur",
-        "districtTenantCode": pg.aidbhavisubcentre",
+        "districtTenantCode": "pg.aidbhavisubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
