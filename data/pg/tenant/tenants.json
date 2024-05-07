@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "ka.aidbhavisubcentre",
+      "code": "pg.aidbhavisubcentre",
       "name": "Aidbhavi Sub Centre",
       "description": "Aidbhavi Sub Centre",
       "centreType": "Sub Centre",
@@ -23,7 +23,7 @@
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.lingasugur",
-        "districtTenantCode": "ra.aidbhavisubcentre",
+        "districtTenantCode": pg.aidbhavisubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
