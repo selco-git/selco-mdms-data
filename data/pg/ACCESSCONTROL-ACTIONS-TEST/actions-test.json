@@ -14976,7 +14976,7 @@
       "displayName": "Im Create",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "rainmaker-im",
       "code": "null",
       "path": ""
@@ -14988,7 +14988,19 @@
       "displayName": "Im Update",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
+      "serviceCode": "rainmaker-im",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2550,
+      "name": "",
+      "url":"/im-services/v2/request/_search",
+      "displayName": "Im Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
       "serviceCode": "rainmaker-im",
       "code": "null",
       "path": ""
