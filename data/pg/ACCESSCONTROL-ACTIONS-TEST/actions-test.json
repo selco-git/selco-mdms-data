@@ -14968,6 +14968,42 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 2548,
+      "name": "",
+      "url":"/im-services/v2/request/_create",
+      "displayName": "Im Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "rainmaker-im",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2549,
+      "name": "",
+      "url":"/im-services/v2/request/_update",
+      "displayName": "Im Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "rainmaker-im",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 2550,
+      "name": "",
+      "url":"/im-services/v2/request/_search",
+      "displayName": "Im Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "rainmaker-im",
+      "code": "null",
+      "path": ""
     }
    ]
 }
