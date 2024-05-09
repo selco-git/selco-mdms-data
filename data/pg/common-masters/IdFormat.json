@@ -711,7 +711,7 @@
             "idname": "sewerageservice.disconnection.id"
         },
 		{
-            "format": "KA-559-002-[cy:dd-MM-yy]/[SEQ_EGOV_COMMON]",
+            "format": "KA-[CITY.CODE]-[cy:ddMMyy]-[SEQ_EGOV_COMMON]",
             "idname": "im.incidentId"
         }
     ]
