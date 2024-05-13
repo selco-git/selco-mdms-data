@@ -37,7 +37,7 @@
       "contactNumber": "6362222593"
     },
     {
-      "code": "ka.alkodsubcentre",
+      "code": "pg.alkodsubcentre",
       "name": "Alkod Sub Centre",
       "description": "Alkod Sub Centre",
       "centreType": "Sub Centre",
@@ -57,7 +57,7 @@
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.devadurga",
-        "districtTenantCode": "ka.alkodsubcentre",
+        "districtTenantCode": "pg.alkodsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -71,7 +71,7 @@
       "contactNumber": "6362222593"
     },
     {
-      "code": "ka.amdihalsubcentre",
+      "code": "pg.amdihalsubcentre",
       "name": "Amdihal Sub Centre",
       "description": "Amdihal Sub Centre",
       "centreType": "Sub Centre",
@@ -91,7 +91,7 @@
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.lingasugur",
-        "districtTenantCode": "ka.amdihalsubcentre",
+        "districtTenantCode": "pg.amdihalsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -105,7 +105,7 @@
       "contactNumber": "6362222593"
     },
     {
-      "code": "ka.ambamathsubcentre",
+      "code": "pg.ambamathsubcentre",
       "name": "Ambamath Sub Centre",
       "description": "Ambamath Sub Centre",
       "centreType": "Sub Centre",
@@ -125,7 +125,7 @@
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.sindhanur",
-        "districtTenantCode": "ka.ambamathsubcentre",
+        "districtTenantCode": "pg.ambamathsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
