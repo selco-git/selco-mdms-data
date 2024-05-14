@@ -41,6 +41,16 @@
         "stateSLA": 0.01,
         "businessSLA": null,
         "topic": "pgr-auto-escalation"
+      },
+	  {
+        "businessService": "IM",
+        "module": "im-services",
+        "state": "RESOLVED",
+        "action": "CLOSE",
+        "active": "true",
+        "stateSLA": 0.05,
+        "businessSLA": null,
+        "topic": "im-auto-escalation"
       }
     ]
   }
