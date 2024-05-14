@@ -416,20 +416,21 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.aidbhavisubcentre"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.alkodsubcentre"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.amdihalsubcentre"
         },
         {
-          "code": "pg.cityd"
+          "code": "pg.ambamathsubcentre"
         },
         {
-          "code": "pg.citye"
+          "code": "pg"
         }
+
       ]
     },
     {
