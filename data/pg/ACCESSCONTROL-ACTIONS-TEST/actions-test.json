@@ -15004,6 +15004,18 @@
       "serviceCode": "rainmaker-im",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+         "id": 2551,
+         "name": "Search PGR Request",
+         "url": "/im-services/v2/request/_count",
+         "parentModule": "",
+         "displayName": "Count IM Request",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "im-services",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
