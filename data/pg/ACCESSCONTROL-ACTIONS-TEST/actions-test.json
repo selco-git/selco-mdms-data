@@ -15007,7 +15007,7 @@
     },
     {
          "id": 2551,
-         "name": "Search PGR Request",
+         "name": "Search IM Request",
          "url": "/im-services/v2/request/_count",
          "parentModule": "",
          "displayName": "Count IM Request",
@@ -15016,6 +15016,51 @@
          "serviceCode": "im-services",
          "code": "null",
          "path": ""
+      },
+	  {
+         "id": 2553,
+         "name": "Inbox",
+         "url": "url",
+         "displayName": "Inbox",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "im",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/im/inbox",
+         "path": "IM.Inbox",
+         "leftIcon": "custom:incident",
+         "rightIcon": ""
+      },
+	  {
+         "id": 2554,
+         "name": "New Ticket",
+         "url": "url",
+         "displayName": "New Ticket",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "im",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/im/incident/create",
+         "path": "IM.Ticket",
+         "leftIcon": "custom:incident",
+         "rightIcon": ""
+      },
+	  {
+         "id": 2555,
+         "name": "My Profile",
+         "url": "url",
+         "displayName": "My Profile",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "im",
+         "code": "null",
+         "navigationURL": "/digit-ui/employee/user/profile",
+         "path": "IM.Profile",
+         "leftIcon": "custom:incident",
+         "rightIcon": ""
       }
    ]
 }
