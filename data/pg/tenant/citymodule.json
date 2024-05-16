@@ -428,6 +428,36 @@
         },
         {
           "code": "pg"
+        },
+		{
+          "code": "pg.chandrabandaprimaryhealthcentre"
+        },
+        {
+          "code": "pg.shakawadisubcentre"
+        },
+        {
+          "code": "pg.wadlursubcentre"
+        },
+        {
+          "code": "pg.harijanwadaurbanprimaryhealthcentre"
+        },
+        {
+          "code": "pg.bijanngerasubcentre"
+        },
+        {
+          "code": "pg.deosugursubcentre"
+        },
+        {
+          "code": "pg.urbanmaternityhealthcenter"
+        },
+        {
+          "code": "pg.ragimangaddaurbanprimaryhealthcentre"
+        },
+        {
+          "code": "pg.siyatalaburbanprimaryhealthcentre"
+        },
+        {
+          "code": "pg.lbsurbanprimaryhealthcentre"
         }
       ]
     },
