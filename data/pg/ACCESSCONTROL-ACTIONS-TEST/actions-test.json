@@ -15061,6 +15061,6 @@
          "path": "IM.Profile",
          "leftIcon": "custom:incident",
          "rightIcon": ""
-      },
+      }
    ]
 }
