@@ -15044,7 +15044,7 @@
          "code": "null",
          "navigationURL": "/digit-ui/employee/im/inbox",
          "path": "IM.Inbox",
-         "leftIcon": "custom:incident",
+         "leftIcon": "incident:inbox",
          "rightIcon": ""
       },
 	  {
@@ -15059,7 +15059,7 @@
          "code": "null",
          "navigationURL": "/digit-ui/employee/im/incident/create",
          "path": "IM.Ticket",
-         "leftIcon": "custom:incident",
+         "leftIcon": "incident:create",
          "rightIcon": ""
       },
 	  {
@@ -15074,7 +15074,7 @@
          "code": "null",
          "navigationURL": "/digit-ui/employee/user/profile",
          "path": "IM.Profile",
-         "leftIcon": "custom:incident",
+         "leftIcon": "Incident:profile",
          "rightIcon": ""
       }
    ]
