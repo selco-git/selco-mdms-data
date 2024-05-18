@@ -15028,8 +15028,8 @@
          "serviceCode": "rainmaker-im",
          "code": "null",
          "navigationURL": "/digit-ui/employee/im/inbox",
-         "path": "IM.Inbox",
-         "leftIcon": "custom:incident",
+         "path": "Inbox",
+         "leftIcon": "action:announcement",
          "rightIcon": ""
       },
 	  {
@@ -15044,7 +15044,7 @@
          "code": "null",
          "navigationURL": "/digit-ui/employee/im/inbox",
          "path": "IM.Inbox",
-         "leftIcon": "incident:inbox",
+         "leftIcon": "action:assignment",
          "rightIcon": ""
       },
 	  {
