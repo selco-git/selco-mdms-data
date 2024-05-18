@@ -15020,7 +15020,7 @@
 	  {
          "id": 2553,
          "name": "IM",
-         "url": "url",
+         "url": "quickAction",
          "displayName": "Search Ticket",
          "orderNumber": 1,
          "parentModule": "",
@@ -15035,7 +15035,7 @@
 	  {
          "id": 2554,
          "name": "IM",
-         "url": "url",
+         "url": "quickAction",
          "displayName": "Search Ticket",
          "orderNumber": 1,
          "parentModule": "",
