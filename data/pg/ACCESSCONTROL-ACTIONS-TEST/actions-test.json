@@ -15019,7 +15019,7 @@
       },
 {
          "id": 2553,
-         "name": "Search Ticket",
+         "name": "SearchTicket",
          "url": "url",
          "displayName": "Search Ticket",
          "orderNumber": 1,
@@ -15027,8 +15027,8 @@
          "enabled": true,
          "serviceCode": "PGR",
          "code": "null",
-         "path": "IM.Search Ticket",
-         "navigationURL": "/digit-ui/employee/im/inbox",
+         "path": "IM.SearchTicket",
+         "navigationURL": "im/inbox",
          "leftIcon": "action:announcement",
          "rightIcon": ""
       },
