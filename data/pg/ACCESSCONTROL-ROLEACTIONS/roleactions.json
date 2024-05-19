@@ -26161,6 +26161,12 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+	    {
+      "rolecode": "COMPLAINANT",
+      "actionid": 2553,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
 	{
       "rolecode": "COMPLAINT_RESOLVER",
       "actionid": 2555,
