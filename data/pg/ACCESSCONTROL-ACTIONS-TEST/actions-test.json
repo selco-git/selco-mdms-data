@@ -15028,7 +15028,7 @@
          "serviceCode": "PGR",
          "code": "null",
          "path": "IM.SearchTicket",
-         "navigationURL": "im/inbox",
+         "navigationURL": "/digit-ui/employee/im/inbox",
          "leftIcon": "action:announcement",
          "rightIcon": ""
       },
