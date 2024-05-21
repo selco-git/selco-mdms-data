@@ -15046,6 +15046,18 @@
          "navigationURL": "/digit-ui/employee/im/incident/create",
          "leftIcon": "action:announcement",
          "rightIcon": ""
+      },
+      {
+      "id": 2555,
+      "name": "IM Workflow Escalation Update",
+      "url": "egov-workflow-v2/egov-wf/auto/Incident/_escalate",
+      "parentModule": "",
+      "displayName": "IM Workflow Escalation Update",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
       }
    ]
 }
