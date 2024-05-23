@@ -2929,33 +2929,6 @@
          "navigationURL": "mdms/PropertyTax/PropertyType"
       },
       {
-         "id": 1547,
-         "name": "PropertySubType",
-         "url": "url",
-         "displayName": "Property Subtype",
-         "orderNumber": 2,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "false",
-         "path": "Property Tax.PT Masters.PropertySubType",
-         "navigationURL": "mdms/PropertyTax/PropertySubType ",
-         "leftIcon": "action:store"
-      },
-      {
-         "id": 1548,
-         "name": "ConstructionType",
-         "url": "url",
-         "displayName": "Construction Type",
-         "orderNumber": 3,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "false",
-         "path": "Property Tax.PT Masters.ConstructionType",
-         "navigationURL": "mdms/PropertyTax/ConstructionType "
-      },
-      {
          "id": 1551,
          "name": "BillingSlabCreate",
          "url": "/pt-calculator-v2/billingslab/_create",
@@ -3210,28 +3183,7 @@
          "code": "null",
          "path": ""
       },
-      {
-         "id": 1575,
-         "name": "PT Report",
-         "url": "/report/rainmaker-pt/_get",
-         "displayName": "PT Report",
-         "orderNumber": 0,
-         "enabled": true,
-         "serviceCode": "PROPERTYREPORTS",
-         "code": "null",
-         "path": "Property Report"
-      },
-      {
-         "id": 1576,
-         "name": "PT Report",
-         "url": "/report/rainmaker-pt/metadata/_get",
-         "displayName": "PT Report",
-         "orderNumber": 0,
-         "enabled": true,
-         "serviceCode": "PROPERTYREPORTS",
-         "code": "null",
-         "path": "Property Report"
-      },
+	  
       {
          "id": 9999,
          "name": "PGR LME Report",
@@ -5615,22 +5567,6 @@
          "queryParams": ""
       },
       {
-         "id": 1777,
-         "name": "rainmaker-common-finance",
-         "url": "card",
-         "displayName": "Finance",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "services/EGF/inbox",
-         "leftIcon": "editor:insert-chart",
-         "rightIcon": "",
-         "queryParams": ""
-      },
-      {
          "id": 1778,
          "name": "rainmaker-common-tradelicence",
          "url": "card",
@@ -5907,20 +5843,6 @@
          "queryParams": ""
       },
       {
-         "id": 1802,
-         "name": "Universal Collection",
-         "url": "url",
-         "displayName": "Universal Collection",
-         "orderNumber": 4,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "UC",
-         "code": "null",
-         "navigationURL": "/digit-ui/employee/mcollect/inbox",
-         "path": "UC",
-         "leftIcon": "image:collections-bookmark"
-      },
-      {
          "id": 1803,
          "name": "Receipts",
          "url": "url",
@@ -5990,19 +5912,6 @@
          "path": "TradeLicense",
          "leftIcon": "places:business-center",
          "rightIcon": ""
-      },
-      {
-         "id": 1808,
-         "name": "CollectionRegister",
-         "url": "url",
-         "displayName": "Collection Register",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "COLLECTIONS",
-         "code": "null",
-         "leftIcon": "action:description",
-         "navigationURL": "report/rainmaker-common/CollectionRegister",
-         "path": "Reports.Collection Register"
       },
       {
          "id": 1809,
