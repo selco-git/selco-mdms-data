@@ -15333,61 +15333,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2025,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PGR-ADMIN",
-      "actionid": 2025,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 2025,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PGR_LME",
-      "actionid": 2025,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2012,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 2012,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PGR_LME",
-      "actionid": 2012,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2013,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 2013,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
+        {
       "rolecode": "STADMIN",
       "actionid": 2015,
       "actioncode": "",
@@ -15411,54 +15357,8 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2014,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 2014,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PGR_LME",
-      "actionid": 2014,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2016,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 2016,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PGR_LME",
-      "actionid": 2016,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2017,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 2017,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
+  
+  
     {
       "rolecode": "STADMIN",
       "actionid": 2018,
@@ -15483,25 +15383,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2019,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "GRO",
-      "actionid": 2019,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PGR_LME",
-      "actionid": 2019,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
+        {
       "rolecode": "SUPERUSER",
       "actionid": 2020,
       "actioncode": "",
