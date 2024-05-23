@@ -25630,47 +25630,6 @@
       "actionid": 2025,
       "actioncode": "",
       "tenantId": "pg"
-    },
- 
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2012,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-  
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2013,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
- 
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2014,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-  
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2016,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-  
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2017,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-   {
-      "rolecode": "SUPERUSER",
-      "actionid": 2019,
-      "actioncode": "",
-      "tenantId": "pg"
-    }
+     }
   ]
 }
