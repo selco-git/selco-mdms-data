@@ -25589,6 +25589,18 @@
       "actioncode": "",
       "tenantId": "pg"
     },
+       {
+      "rolecode": "COMPLAINT_ASSESSOR",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "COMPLAINT_RESOLVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
     {
       "rolecode": "COMPLAINT_CLOSER",
       "actionid": 2553,
@@ -25622,6 +25634,12 @@
      {
       "rolecode": "COMPLAINANT",
       "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "COMPLAINANT",
+      "actionid": 1730,
       "actioncode": "",
       "tenantId": "pg"
     },
