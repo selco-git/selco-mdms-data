@@ -127,11 +127,6 @@
       "name": "Complaint Resolver",
       "description": "One who will resolve complaints"
     },
-    {
-      "code": "COMPLAINT_CLOSER",
-      "name": "Complaint Closer",
-      "description": "One who will close complaints"
-    },
 	{
       "code": "TICKET_REPORT_VIEWER",
       "name": "Report Viewer",
