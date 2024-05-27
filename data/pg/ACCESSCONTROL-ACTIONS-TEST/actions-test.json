@@ -14959,7 +14959,7 @@
       {
       "id": 2555,
       "name": "IM Workflow Escalation Update",
-      "url": "egov-workflow-v2/egov-wf/auto/Incident/_escalate",
+      "url": "/egov-workflow-v2/egov-wf/auto/Incident/_escalate",
       "parentModule": "",
       "displayName": "IM Workflow Escalation Update",
       "orderNumber": 1,
