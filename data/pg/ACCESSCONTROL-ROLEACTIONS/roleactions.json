@@ -25684,6 +25684,13 @@
       "actionid": 1429,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    
+    {
+      "rolecode": "AUTO_ESCALATE",
+      "actionid": 2555,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
