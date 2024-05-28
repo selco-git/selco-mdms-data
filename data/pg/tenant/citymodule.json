@@ -188,7 +188,7 @@
       "module": "BPAAPPLY",
       "code": "BPAAPPLY",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": false
+      "active": false,
       "order": 2,
       "tenants": [
         {
@@ -296,7 +296,7 @@
     {
       "module": "Receipts",
       "code": "Receipts",
-      "active": false
+      "active": false,
       "order": 3,
       "tenants": [
         {
@@ -319,7 +319,7 @@
     {
       "module": "NOC",
       "code": "NOC",
-      "active": false
+      "active": false,
       "order": 2,
       "tenants": [
         {
@@ -342,7 +342,7 @@
     {
       "module": "DSS",
       "code": "DSS",
-      "active": false
+      "active": false,
       "order": 6,
       "tenants": [
         {
@@ -365,7 +365,7 @@
     {
       "module": "Engagement",
       "code": "Engagement",
-      "active": false
+      "active": false,
       "order": 3,
       "tenants": [
         {
@@ -388,7 +388,7 @@
     {
       "module": "MCollect",
       "code": "MCollect",
-      "active": false
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -411,7 +411,7 @@
     {
       "module": "HRMS",
       "code": "HRMS",
-      "active": false
+      "active": false,
       "order": 2,
       "tenants": [
         {
@@ -429,7 +429,7 @@
         {
           "code": "pg"
         },
-		{
+        {
           "code": "pg.chandrabandaprimaryhealthcentre"
         },
         {
@@ -464,7 +464,7 @@
     {
       "module": "CommonPT",
       "code": "CommonPT",
-      "active": false
+      "active": false,
       "order": 3,
       "tenants": [
         {
@@ -487,7 +487,7 @@
     {
       "module": "NDSS",
       "code": "NDSS",
-      "active": false
+      "active": false,
       "order": 5,
       "tenants": [
         {
@@ -511,7 +511,7 @@
       "module": "WS",
       "code": "WS",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
-      "active": false
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -528,7 +528,7 @@
     {
       "module": "SW",
       "code": "SW",
-      "active": false
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -545,7 +545,7 @@
     {
       "module": "BillAmendment",
       "code": "BillAmendment",
-      "active": false
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -563,7 +563,7 @@
       "module": "Bills",
       "code": "Bills",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
-      "active": false
+      "active": false,
       "order": 3,
       "tenants": [
         {
@@ -581,7 +581,7 @@
       "module": "Birth",
       "code": "Birth",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": false
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -605,7 +605,7 @@
       "module": "Death",
       "code": "Death",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": false
+      "active": false,
       "order": 1,
       "tenants": [
         {
@@ -646,7 +646,7 @@
       "module": "Incident",
       "code": "Incident",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
-      "active": true
+      "active": true,
       "order": 2,
       "tenants": [
         {
