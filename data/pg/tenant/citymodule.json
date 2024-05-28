@@ -643,8 +643,8 @@
       ]
     },
     {
-      "module": "Incident",
-      "code": "Incident",
+      "module": "IM",
+      "code": "IM",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
       "order": 2,
