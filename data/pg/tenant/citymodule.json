@@ -411,7 +411,7 @@
     {
       "module": "HRMS",
       "code": "HRMS",
-      "active": false,
+      "active": true,
       "order": 2,
       "tenants": [
         {
