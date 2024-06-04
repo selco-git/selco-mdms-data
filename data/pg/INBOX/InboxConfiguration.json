@@ -14,12 +14,12 @@
         },
         {
           "name": "status",
-          "path": "Data.incident.applicationSTatus",
+          "path": "Data.incident.applicationStatus",
           "isMandatory": false
         },
         {
           "name": "mobileNumber",
-          "path": "Data.incident.reporter.mobileNumbe",
+          "path": "Data.incident.reporter.mobileNumber",
           "isMandatory": false,
           "isHashingRequired": true
         },
