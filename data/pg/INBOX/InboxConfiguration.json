@@ -47,7 +47,7 @@
         }
       ],
       "sortBy": {
-          "path": "Data.incident.uditDetails.createdTime",
+          "path": "Data.incident.auditDetails.createdTime",
           "defaultOrder": "ASC"
       },
       "sourceFilterPathList": ["Data.incident.auditDetails", "Data.incident.additionalDetails", "Data.incident.tenantId","Data.incident.incidentId","Data.workflow"]
