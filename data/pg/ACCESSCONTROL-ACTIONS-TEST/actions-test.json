@@ -14967,6 +14967,17 @@
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
-      }
+      },
+	     {
+      "id": 2556,
+      "name": "Inbox Search for UI",
+      "url": "/inbox/v2/_search",
+      "displayName": "Inbox Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "inbox",
+      "code": "null",
+      "path": ""
+    }
    ]
 }
