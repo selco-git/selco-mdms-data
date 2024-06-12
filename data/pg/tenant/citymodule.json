@@ -421,6 +421,9 @@
         {
           "code": "pg.chandrabandaprimaryhealthcentre"
         },
+         {
+          "code": "pg.dummya"
+        },
         {
           "code": "pg.dummy"
         },
@@ -667,6 +670,9 @@
         },
          {
           "code": "pg.dummy"
+        },
+        {
+          "code": "pg.dummya"
         },
         {
           "code": "pg.ragimangaddaurbanprimaryhealthcentre"
