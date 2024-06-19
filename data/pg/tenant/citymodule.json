@@ -415,19 +415,13 @@
       "order": 2,
       "tenants": [
         {
-          "code": "pg.aidbhavisubcentre"
-        },
-        {
-          "code": "pg.alkodsubcentre"
-        },
-        {
-          "code": "pg.amdihalsubcentre"
-        },
-        {
-          "code": "pg.ambamathsubcentre"
-        },
-        {
           "code": "pg"
+        },
+        {
+          "code": "pg.dummy"
+        },
+        {
+          "code": "pg.dummya"
         },
         {
           "code": "pg.chandrabandaprimaryhealthcentre"
@@ -458,6 +452,276 @@
         },
         {
           "code": "pg.lbsurbanprimaryhealthcentre"
+        },
+        {
+          "code": "pg.wadwatti"
+        },
+        {
+          "code": "pg.kalmalasc"
+        },
+        {
+          "code": "pg.kalmalaphc"
+        },
+        {
+          "code": "pg.matamarisc"
+        },
+        {
+          "code": "pg.matamariphc"
+        },
+        {
+          "code": "pg.gillesugur"
+        },
+        {
+          "code": "pg.gillesuru"
+        },
+        {
+          "code": "pg.bullapur"
+        },
+        {
+          "code": "pg.gandhala"
+        },
+        {
+          "code": "pg.ganadhal"
+        },
+        {
+          "code": "pg.mustur"
+        },
+        {
+          "code": "pg.masarkal"
+        },
+        {
+          "code": "pg.kopparsc"
+        },
+        {
+          "code": "pg.yatgal"
+        },
+        {
+          "code": "pg.devadurgatalukahospital"
+        },
+        {
+          "code": "pg.jalahalli"
+        },
+        {
+          "code": "pg.karigudda"
+        },
+        {
+          "code": "pg.galagsc"
+        },
+        {
+          "code": "pg.ramnal"
+        },
+        {
+          "code": "pg.galagphc"
+        },
+        {
+          "code": "pg.ramdurgajagatagal"
+        },
+        {
+          "code": "pg.ramdurga"
+        },
+        {
+          "code": "pg.gabbur"
+        },
+        {
+          "code": "pg.nagadadinni"
+        },
+        {
+          "code": "pg.sunkeshwarhal"
+        },
+        {
+          "code": "pg.bganekal"
+        },
+        {
+          "code": "pg.herundi"
+        },
+        {
+          "code": "pg.karadigudda"
+        },
+        {
+          "code": "pg.alkoda"
+        },
+        {
+          "code": "pg.chikahonakoni"
+        },
+        {
+          "code": "pg.badarli"
+        },
+        {
+          "code": "pg.harapur"
+        },
+        {
+          "code": "pg.badarli"
+        },
+        {
+          "code": "pg.harapur"
+        },
+        {
+          "code": "pg.paparaocamp"
+        },
+        {
+          "code": "pg.balganura"
+        },
+        {
+          "code": "pg.goudanbhavi"
+        },
+        {
+          "code": "pg.balaganur"
+        },
+        {
+          "code": "pg.jawalgerasc"
+        },
+        {
+          "code": "pg.jawalgeraphc"
+        },
+        {
+          "code": "pg.rhno1sc"
+        },
+        {
+          "code": "pg.rhno2sc"
+        },
+        {
+          "code": "pg.rhno2phc"
+        },
+        {
+          "code": "pg.salagundasc"
+        },
+        {
+          "code": "pg.dhadesugur"
+        },
+        {
+          "code": "pg.salagunda"
+        },
+        {
+          "code": "pg.thurvihalsc"
+        },
+        {
+          "code": "pg.gandhinagar"
+        },
+        {
+          "code": "pg.gandhinagara"
+        },
+        {
+          "code": "pg.turvihalphc"
+        },
+        {
+          "code": "pg.aidabavi"
+        },
+        {
+          "code": "pg.gurguntasc"
+        },
+        {
+          "code": "pg.gurguntaphc"
+        },
+        {
+          "code": "pg.huttisc"
+        },
+        {
+          "code": "pg.huttiphc"
+        },
+        {
+          "code": "pg.gejjalgettasc"
+        },
+        {
+          "code": "pg.gejjalgettaphc"
+        },
+        {
+          "code": "pg.maraldinni"
+        },
+        {
+          "code": "pg.maskib"
+        },
+        {
+          "code": "pg.maski"
+        },
+        {
+          "code": "pg.yelagatta"
+        },
+        {
+          "code": "pg.anwariphc"
+        },
+        {
+          "code": "pg.antaragangi"
+        },
+        {
+          "code": "pg.medikinal"
+        },
+        {
+          "code": "pg.medikinalphc"
+        },
+        {
+          "code": "pg.bannigol"
+        },
+        {
+          "code": "pg.makapursc"
+        },
+        {
+          "code": "pg.makapurphc"
+        },
+        {
+          "code": "pg.ashihala"
+        },
+        {
+          "code": "pg.bayyapurasc"
+        },
+        {
+          "code": "pg.ameengud"
+        },
+        {
+          "code": "pg.athnoor"
+        },
+        {
+          "code": "pg.chagabhavi"
+        },
+        {
+          "code": "pg.ganadinni"
+        },
+        {
+          "code": "pg.halapur"
+        },
+        {
+          "code": "pg.harwapur"
+        },
+        {
+          "code": "pg.hirebadaradinni"
+        },
+        {
+          "code": "pg.jakkaldinni"
+        },
+        {
+          "code": "pg.jeenoor"
+        },
+        {
+          "code": "pg.madlapur"
+        },
+        {
+          "code": "pg.nandihal"
+        },
+        {
+          "code": "pg.neermanvi"
+        },
+        {
+          "code": "pg.pamankallur"
+        },
+        {
+          "code": "pg.sirwar"
+        },
+        {
+          "code": "pg.ballatagi"
+        },
+        {
+          "code": "pg.byagawat"
+        },
+        {
+          "code": "pg.hirekotnekal"
+        },
+        {
+          "code": "pg.pothnal"
+        },
+        {
+          "code": "pg.thoranadinni"
+        },
+        {
+          "code": "pg.kallur"
         }
       ]
     },
@@ -650,19 +914,13 @@
       "order": 2,
       "tenants": [
         {
-          "code": "pg.aidbhavisubcentre"
-        },
-        {
-          "code": "pg.alkodsubcentre"
-        },
-        {
-          "code": "pg.amdihalsubcentre"
-        },
-        {
-          "code": "pg.ambamathsubcentre"
-        },
-        {
           "code": "pg"
+        },
+        {
+          "code": "pg.dummy"
+        },
+        {
+          "code": "pg.dummya"
         },
         {
           "code": "pg.chandrabandaprimaryhealthcentre"
@@ -693,6 +951,276 @@
         },
         {
           "code": "pg.lbsurbanprimaryhealthcentre"
+        },
+        {
+          "code": "pg.wadwatti"
+        },
+        {
+          "code": "pg.kalmalasc"
+        },
+        {
+          "code": "pg.kalmalaphc"
+        },
+        {
+          "code": "pg.matamarisc"
+        },
+        {
+          "code": "pg.matamariphc"
+        },
+        {
+          "code": "pg.gillesugur"
+        },
+        {
+          "code": "pg.gillesuru"
+        },
+        {
+          "code": "pg.bullapur"
+        },
+        {
+          "code": "pg.gandhala"
+        },
+        {
+          "code": "pg.ganadhal"
+        },
+        {
+          "code": "pg.mustur"
+        },
+        {
+          "code": "pg.masarkal"
+        },
+        {
+          "code": "pg.kopparsc"
+        },
+        {
+          "code": "pg.yatgal"
+        },
+        {
+          "code": "pg.devadurgatalukahospital"
+        },
+        {
+          "code": "pg.jalahalli"
+        },
+        {
+          "code": "pg.karigudda"
+        },
+        {
+          "code": "pg.galagsc"
+        },
+        {
+          "code": "pg.ramnal"
+        },
+        {
+          "code": "pg.galagphc"
+        },
+        {
+          "code": "pg.ramdurgajagatagal"
+        },
+        {
+          "code": "pg.ramdurga"
+        },
+        {
+          "code": "pg.gabbur"
+        },
+        {
+          "code": "pg.nagadadinni"
+        },
+        {
+          "code": "pg.sunkeshwarhal"
+        },
+        {
+          "code": "pg.bganekal"
+        },
+        {
+          "code": "pg.herundi"
+        },
+        {
+          "code": "pg.karadigudda"
+        },
+        {
+          "code": "pg.alkoda"
+        },
+        {
+          "code": "pg.chikahonakoni"
+        },
+        {
+          "code": "pg.badarli"
+        },
+        {
+          "code": "pg.harapur"
+        },
+        {
+          "code": "pg.badarli"
+        },
+        {
+          "code": "pg.harapur"
+        },
+        {
+          "code": "pg.paparaocamp"
+        },
+        {
+          "code": "pg.balganura"
+        },
+        {
+          "code": "pg.goudanbhavi"
+        },
+        {
+          "code": "pg.balaganur"
+        },
+        {
+          "code": "pg.jawalgerasc"
+        },
+        {
+          "code": "pg.jawalgeraphc"
+        },
+        {
+          "code": "pg.rhno1sc"
+        },
+        {
+          "code": "pg.rhno2sc"
+        },
+        {
+          "code": "pg.rhno2phc"
+        },
+        {
+          "code": "pg.salagundasc"
+        },
+        {
+          "code": "pg.dhadesugur"
+        },
+        {
+          "code": "pg.salagunda"
+        },
+        {
+          "code": "pg.thurvihalsc"
+        },
+        {
+          "code": "pg.gandhinagar"
+        },
+        {
+          "code": "pg.gandhinagara"
+        },
+        {
+          "code": "pg.turvihalphc"
+        },
+        {
+          "code": "pg.aidabavi"
+        },
+        {
+          "code": "pg.gurguntasc"
+        },
+        {
+          "code": "pg.gurguntaphc"
+        },
+        {
+          "code": "pg.huttisc"
+        },
+        {
+          "code": "pg.huttiphc"
+        },
+        {
+          "code": "pg.gejjalgettasc"
+        },
+        {
+          "code": "pg.gejjalgettaphc"
+        },
+        {
+          "code": "pg.maraldinni"
+        },
+        {
+          "code": "pg.maskib"
+        },
+        {
+          "code": "pg.maski"
+        },
+        {
+          "code": "pg.yelagatta"
+        },
+        {
+          "code": "pg.anwariphc"
+        },
+        {
+          "code": "pg.antaragangi"
+        },
+        {
+          "code": "pg.medikinal"
+        },
+        {
+          "code": "pg.medikinalphc"
+        },
+        {
+          "code": "pg.bannigol"
+        },
+        {
+          "code": "pg.makapursc"
+        },
+        {
+          "code": "pg.makapurphc"
+        },
+        {
+          "code": "pg.ashihala"
+        },
+        {
+          "code": "pg.bayyapurasc"
+        },
+        {
+          "code": "pg.ameengud"
+        },
+        {
+          "code": "pg.athnoor"
+        },
+        {
+          "code": "pg.chagabhavi"
+        },
+        {
+          "code": "pg.ganadinni"
+        },
+        {
+          "code": "pg.halapur"
+        },
+        {
+          "code": "pg.harwapur"
+        },
+        {
+          "code": "pg.hirebadaradinni"
+        },
+        {
+          "code": "pg.jakkaldinni"
+        },
+        {
+          "code": "pg.jeenoor"
+        },
+        {
+          "code": "pg.madlapur"
+        },
+        {
+          "code": "pg.nandihal"
+        },
+        {
+          "code": "pg.neermanvi"
+        },
+        {
+          "code": "pg.pamankallur"
+        },
+        {
+          "code": "pg.sirwar"
+        },
+        {
+          "code": "pg.ballatagi"
+        },
+        {
+          "code": "pg.byagawat"
+        },
+        {
+          "code": "pg.hirekotnekal"
+        },
+        {
+          "code": "pg.pothnal"
+        },
+        {
+          "code": "pg.thoranadinni"
+        },
+        {
+          "code": "pg.kallur"
         }
       ]
     }
