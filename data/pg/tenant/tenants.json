@@ -1433,9 +1433,9 @@
     "contactNumber": "9090702009"
   },
   {
-    "code": "pg.harapur",
-    "name": "Harapur",
-    "description": "Harapur",
+    "code": "pg.harapursc",
+    "name": "Harapur SC",
+    "description": "Harapur SC",
     "centreType": "SC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -1448,12 +1448,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Harapur",
+      "name": "Harapur SC",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.sindhanur",
-      "districtTenantCode": "pg.harapur",
+      "districtTenantCode": "pg.harapursc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -1501,9 +1501,9 @@
     "contactNumber": "9090702009"
   },
   {
-    "code": "pg.harapur",
-    "name": "Harapur",
-    "description": "Harapur",
+    "code": "pg.harapurphc",
+    "name": "Harapur PHC",
+    "description": "Harapur PHC",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -1516,12 +1516,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Harapur",
+      "name": "Harapur PHC",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.sindhanur",
-      "districtTenantCode": "pg.harapur",
+      "districtTenantCode": "pg.harapurphc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
