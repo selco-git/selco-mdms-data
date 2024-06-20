@@ -1467,9 +1467,9 @@
     "contactNumber": "7353844249"
   },
   {
-    "code": "pg.badarli",
-    "name": "Badarli",
-    "description": "Badarli",
+    "code": "pg.badarliphc",
+    "name": "Badarli PHC",
+    "description": "Badarli PHC",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -1482,12 +1482,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Badarli",
+      "name": "Badarli PHC",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.sindhanur",
-      "districtTenantCode": "pg.badarli",
+      "districtTenantCode": "pg.badarliphc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -1495,6 +1495,40 @@
       "shapeFileLocation": null,
       "captcha": null,
       "code": "KA-RCH-4465285866",
+      "ddrName": null
+    },
+    "address": "Karnataka",
+    "contactNumber": "9090702009"
+  },
+   {
+    "code": "pg.badarlisc",
+    "name": "Badarli SC",
+    "description": "Badarli SC",
+    "centreType": "SC",
+    "pincode": null,
+    "domainUrl": "https://e4h-dev.selcofoundation.org",
+    "type": "SC",
+    "logoId": "https://selco-assets.s3.ap-south-1.amazonaws.com/logo.png",
+    "imageId": null,
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "OfficeTimings": {
+      "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+      "name": "Badarli SC",
+      "localName": null,
+      "districtCode": "RAICHUR",
+      "districtName": "Raichur",
+      "blockCode": "raichur.sindhanur",
+      "districtTenantCode": "pg.badarlisc",
+      "regionName": null,
+      "ulbGrade": null,
+      "longitude": null,
+      "latitude": null,
+      "shapeFileLocation": null,
+      "captcha": null,
+      "code": "KA-RCH-8464562670",
       "ddrName": null
     },
     "address": "Karnataka",
