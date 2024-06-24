@@ -1773,7 +1773,7 @@
     "contactNumber": "9964478473"
   },
   {
-    "code": "pg.rhno1sc",
+    "code": "pg.rhnoonesc",
     "name": "R H No 1 SC",
     "description": "R H No 1 SC",
     "centreType": "SC",
@@ -1793,7 +1793,7 @@
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.sindhanur",
-      "districtTenantCode": "pg.rhno1sc",
+      "districtTenantCode": "pg.rhnoonesc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -1807,7 +1807,7 @@
     "contactNumber": "6364625964"
   },
   {
-    "code": "pg.rhno2sc",
+    "code": "pg.rhnotwosc",
     "name": "R H No 2 SC",
     "description": "R H No 2 SC",
     "centreType": "SC",
@@ -1827,7 +1827,7 @@
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.sindhanur",
-      "districtTenantCode": "pg.rhno2sc",
+      "districtTenantCode": "pg.rhnotwosc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -1841,7 +1841,7 @@
     "contactNumber": "9901431840"
   },
   {
-    "code": "pg.rhno2phc",
+    "code": "pg.rhnotwophc",
     "name": "R H No 2 PHC",
     "description": "R H No 2 PHC",
     "centreType": "PHC",
@@ -1861,7 +1861,7 @@
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.sindhanur",
-      "districtTenantCode": "pg.rhno2phc",
+      "districtTenantCode": "pg.rhnotwophc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
