@@ -13,7 +13,7 @@
     },
     {
       "serviceCode": "CrackPanelTree",
-      "name": "Crack on Panel (Due to tree branches)",
+      "name": "Crack due to tree branches falling",
       "keywords": "panel, crack, tree, branches, repair, damage, fix",
       "department": "O&M",
       "slaHours": 336,
@@ -22,7 +22,7 @@
     },
     {
       "serviceCode": "CrackPanelMonkey",
-      "name": "Crack on Panel (Due to Monkeys)",
+      "name": "Crack due to animal interventions",
       "keywords": "panel, crack, monkey, branches, repair, damage, fix",
       "department": "O&M",
       "slaHours": 336,
@@ -31,7 +31,7 @@
     },
     {
       "serviceCode": "HotspotOnPanels",
-      "name": "Hotspot on Panels",
+      "name": "Hotspot",
       "keywords": "hot spot,panels",
       "department": "O&M",
       "slaHours": 336,
@@ -40,7 +40,7 @@
     },
     {
       "serviceCode": "CrackPanelOther",
-      "name": "Crack on Panel (other)",
+      "name": "Crack due to other reasons",
       "keywords": "panel, crack, other, branches, repair, damage, fix",
       "department": "O&M",
       "slaHours": 336,
@@ -49,7 +49,7 @@
     },
     {
       "serviceCode": "DustOnPanels",
-      "name": "Dust on Panels",
+      "name": "Dust",
       "keywords": "dust, panel",
       "department": "O&M",
       "slaHours": 336,
@@ -58,7 +58,7 @@
     },
     {
       "serviceCode": "PaneldisplacedWind",
-      "name": "Panel displaced from MMS (Due to heavy wind)",
+      "name": "Displaced from the structure due to heavy wind",
       "keywords": "displaced, mms, wind, heavy",
       "department": "O&M",
       "slaHours": 336,
@@ -67,7 +67,7 @@
     },
     {
       "serviceCode": "PaneldisplacedCentre",
-      "name": "Panel displaced from MMS (by the health center)",
+      "name": "Displaced from the structure by the health center",
       "keywords": "displaced, mms, wind, health center",
       "department": "O&M",
       "slaHours": 336,
@@ -76,7 +76,7 @@
     },
     {
       "serviceCode": "ShadeOnPanels",
-      "name": "Shade on Panels",
+      "name": "Shade",
       "keywords": "shade, panel, on",
       "department": "O&M",
       "slaHours": 336,
@@ -94,7 +94,7 @@
     },
     {
       "serviceCode": "Other",
-      "name": "Other",
+      "name": "Other issues",
       "keywords": "other",
       "department": "O&M",
       "slaHours": 336,
@@ -102,8 +102,44 @@
       "active": true
     },
     {
+      "serviceCode": "LowpowerGeneration",
+      "name": "Low power Generation",
+      "keywords": "low, power, generation",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Panel",
+      "active": true
+    },
+    {
+      "serviceCode": "Nopowergeneration",
+      "name": "No power generation",
+      "keywords": "no, power, generation",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Panel",
+      "active": true
+    },
+    {
+      "serviceCode": "Shifting",
+      "name": "Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Panel",
+      "active": true
+    },
+    {
+      "serviceCode": "electricalshocks",
+      "name": "electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Panel",
+      "active": true
+    },
+    {
       "serviceCode": "ShutdownLightning",
-      "name": "Shut down (Due to Lightning)",
+      "name": "Shut down due to lightning",
       "keywords": "inverter, shutdown, lightning, repair, damage, fix",
       "department": "O&M",
       "slaHours": 336,
@@ -112,7 +148,7 @@
     },
     {
       "serviceCode": "ShutDownGrid",
-      "name": "Shut down (Due to Grid issues)",
+      "name": "Shut down due to grid issues",
       "keywords": "inverter, shutdown, grid, repair, damage, fix",
       "department": "O&M",
       "slaHours": 336,
@@ -121,7 +157,7 @@
     },
     {
       "serviceCode": "TrippingGridIssues",
-      "name": "Tripping (Due to grid issues)",
+      "name": "Tripping due to grid issues",
       "keywords": "tripping, grid, issues",
       "department": "O&M",
       "slaHours": 336,
@@ -130,7 +166,7 @@
     },
     {
       "serviceCode": "TrippingMCBIssue",
-      "name": "Tripping (Due to MCB rating issues)",
+      "name": "Tripping due to MCB rating issues",
       "keywords": "tripping, MCB, issues",
       "department": "O&M",
       "slaHours": 336,
@@ -139,7 +175,7 @@
     },
     {
       "serviceCode": "TrippingExtraLoads",
-      "name": "Tripping (Due to extra loads)",
+      "name": "Tripping due to extra loads",
       "keywords": "tripping, extra, loads",
       "department": "O&M",
       "slaHours": 336,
@@ -166,7 +202,7 @@
     },
     {
       "serviceCode": "ContinuousBuzzer",
-      "name": "Continuous Buzzer",
+      "name": "Continuous buzzer sound",
       "keywords": "continuous, buzzer",
       "department": "O&M",
       "slaHours": 336,
@@ -184,7 +220,7 @@
     },
     {
       "serviceCode": "Errorondisplay",
-      "name": "Error on Display",
+      "name": "Display error",
       "keywords": "error, on, display",
       "department": "O&M",
       "slaHours": 336,
@@ -202,7 +238,7 @@
     },
     {
       "serviceCode": "Other",
-      "name": "Other",
+      "name": "Other issues",
       "keywords": "other",
       "department": "O&M",
       "slaHours": 336,
@@ -210,8 +246,35 @@
       "active": true
     },
     {
+      "serviceCode": "Shifting",
+      "name": "Shifting",
+      "keywords": "shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Inverter",
+      "active": true
+    },
+    {
+      "serviceCode": "InstallationAndCommissioningissues",
+      "name": "Installation & Commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Inverter",
+      "active": true
+    },
+    {
+      "serviceCode": "Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Inverter",
+      "active": true
+    },
+    {
       "serviceCode": "BatteryShortCircuit",
-      "name": "Burned (Due to short circuit)",
+      "name": "Burnt due to a short circuit",
       "keywords": "batter, burned, short circuit, repair, damage, fix",
       "department": "O&M",
       "slaHours": 336,
@@ -220,7 +283,7 @@
     },
     {
       "serviceCode": "Burnedduetolightning",
-      "name": "Burned (Due to Lightning)",
+      "name": "Burnt due to lightning",
       "keywords": "battery, burned, lightning",
       "department": "O&M",
       "slaHours": 336,
@@ -229,7 +292,7 @@
     },
     {
       "serviceCode": "BlastedShortCircuit",
-      "name": "Blasted (Due to short circuit)",
+      "name": "Blast due to short circuit",
       "keywords": "short, circuit, blasted",
       "department": "O&M",
       "slaHours": 336,
@@ -237,8 +300,17 @@
       "active": true
     },
     {
+      "serviceCode": "BlastduetoLightning",
+      "name": "Blast due to lightning",
+      "keywords": "blasted, lightning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
       "serviceCode": "NoPetroleumGel",
-      "name": "No Petroleum Gel at termination points",
+      "name": "No petroleum jelly in battery terminals",
       "keywords": "pertrol, get, termincation",
       "department": "O&M",
       "slaHours": 336,
@@ -247,7 +319,7 @@
     },
     {
       "serviceCode": "LowBatteryWaterLevel",
-      "name": "Low Battery Water Level",
+      "name": "Low battery water level",
       "keywords": "low, battery,water,level",
       "department": "O&M",
       "slaHours": 336,
@@ -265,7 +337,7 @@
     },
     {
       "serviceCode": "Physicaldamagebatteries",
-      "name": "Physical damage to batteries",
+      "name": "Physical damage to battery cell caps",
       "keywords": "physical, damage, batteries",
       "department": "O&M",
       "slaHours": 336,
@@ -273,9 +345,54 @@
       "active": true
     },
     {
-      "serviceCode": "Lowbatterybackup",
-      "name": "Low battery backup",
-      "keywords": "low, battery, backup",
+      "serviceCode": "Physicaldamage",
+      "name": "Physical damage",
+      "keywords": "physical, damage",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
+      "serviceCode": "BatteryRackDamage",
+      "name": "Battery rack damage",
+      "keywords": "rack, damage, battery",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
+      "serviceCode": "LooseCablesBatteryConnections",
+      "name": "Loose cables in battery connections",
+      "keywords": "loose, cable, battery, connections",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
+      "serviceCode": "Dust",
+      "name": "Dust",
+      "keywords": "Dust",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
+      "serviceCode": "DeepDischarge",
+      "name": "Deep discharge",
+      "keywords": "deep, discharge",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
+      "serviceCode": "Lowbackup",
+      "name": "Low  backup",
+      "keywords": "low, backup",
       "department": "O&M",
       "slaHours": 336,
       "menuPath": "Battery",
@@ -301,7 +418,7 @@
     },
     {
       "serviceCode": "Other",
-      "name": "Other",
+      "name": "Other issues",
       "keywords": "Other",
       "department": "O&M",
       "slaHours": 336,
@@ -309,8 +426,44 @@
       "active": true
     },
     {
+      "serviceCode": "Shifting",
+      "name": "Shifting",
+      "keywords": "shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
+      "serviceCode": "InstallationAndCommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
+      "serviceCode": "FastDrainingofDistilledwater",
+      "name": "Fast draining of distilled water",
+      "keywords": "Fast, draining, distilled, water",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
+      "serviceCode": "Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Battery",
+      "active": true
+    },
+    {
       "serviceCode": "BurnedIndoorlights",
-      "name": "Burned_Indoor lights",
+      "name": "Indoor light burnt",
       "keywords": "Burned, indoor, lights",
       "department": "O&M",
       "slaHours": 336,
@@ -319,7 +472,7 @@
     },
     {
       "serviceCode": "Notworkingindoorlights",
-      "name": "Not working_Indoor lights",
+      "name": "Indoor light not working",
       "keywords": "Not, working, indoor, lights",
       "department": "O&M",
       "slaHours": 336,
@@ -328,7 +481,7 @@
     },
     {
       "serviceCode": "SwitchissueIndoorlights",
-      "name": "Switch issue_Indoor lights",
+      "name": "Indoor light switch not working",
       "keywords": "switch, issue, indoor lights",
       "department": "O&M",
       "slaHours": 336,
@@ -337,7 +490,7 @@
     },
     {
       "serviceCode": "Burnedoutdoorlights",
-      "name": "Burned_Outdoor lights",
+      "name": "Outdoor light burnt",
       "keywords": "burned, outdoor, lights",
       "department": "O&M",
       "slaHours": 336,
@@ -346,7 +499,7 @@
     },
     {
       "serviceCode": "NotworkingOutdoorlights",
-      "name": "Not working_Outdoor lights",
+      "name": "Outdoor light not working",
       "keywords": "not, working, outdoor, lights",
       "department": "O&M",
       "slaHours": 336,
@@ -355,7 +508,7 @@
     },
     {
       "serviceCode":"Switchissue_Outdoorlights",
-      "name": "Switch issue_Outdoor lights",
+      "name": "Outdoor light switch not working",
       "keywords": "switch, issue, outdoor, lights",
       "department": "O&M",
       "slaHours": 336,
@@ -382,7 +535,7 @@
     },
     {
       "serviceCode":"TheftLights",
-      "name": "Theft_Lights",
+      "name": "Theft of lights",
       "keywords": "theft, lights",
       "department": "O&M",
       "slaHours": 336,
@@ -391,7 +544,7 @@
     },
     {
       "serviceCode":"otherlights",
-      "name": "Other_Lights",
+      "name": "Other issues to the lights",
       "keywords": "other, lights",
       "department": "O&M",
       "slaHours": 336,
@@ -400,7 +553,7 @@
     },
     {
       "serviceCode":"burnedfans",
-      "name": "Burned_Fans",
+      "name": "Fan burned",
       "keywords": "burned, fans",
       "department": "O&M",
       "slaHours": 336,
@@ -409,7 +562,7 @@
     },
     {
       "serviceCode":"Notworkingfans",
-      "name": "Not working_Fans",
+      "name": "Fan not working",
       "keywords": "not, working, fans",
       "department": "O&M",
       "slaHours": 336,
@@ -417,9 +570,18 @@
       "active": true
     },
     {
+      "serviceCode":"fanSwitchNotworking",
+      "name": "Fan switch is not working",
+      "keywords": "switch, not, working, fans",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Lights Fans",
+      "active": true
+    },
+    {
       "serviceCode":"RegulatorIssueFans",
-      "name": "Regulator Issue_Fans",
-      "keywords": "regulator, issue, fans",
+      "name": "Fan regulator is not working",
+      "keywords": "regulator, issue, fans, not, working",
       "department": "O&M",
       "slaHours": 336,
       "menuPath": "Lights Fans",
@@ -427,7 +589,7 @@
     },
     {
       "serviceCode":"lowspeedfans",
-      "name": "Low speed_Fans",
+      "name": "Low fan speed",
       "keywords": "regulator, issue, fans",
       "department": "O&M",
       "slaHours": 336,
@@ -436,7 +598,7 @@
     },
     {
       "serviceCode":"theftfans",
-      "name": "Theft_Fans",
+      "name": "Theft of fans",
       "keywords": "theft, fans",
       "department": "O&M",
       "slaHours": 336,
@@ -445,7 +607,7 @@
     },
     {
       "serviceCode":"OtherFans",
-      "name": "Other_Fans",
+      "name": "Other issues to the fans",
       "keywords": "other, fans",
       "department": "O&M",
       "slaHours": 336,
@@ -453,8 +615,35 @@
       "active": true
     },
     {
+      "serviceCode":"ShiftingoftheLightsAndFans",
+      "name": "Shifting of the Lights & Fans",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Lights Fans",
+      "active": true
+    },
+    {
+      "serviceCode":"InstallationAndcommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Lights Fans",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "Electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Lights Fans",
+      "active": true
+    },
+    {
       "serviceCode":"Burnedduetolightning",
-      "name": "Burned_Due to Lightning",
+      "name": "Burnt due to lightning",
       "keywords": "burned, due, lightning",
       "department": "O&M",
       "slaHours": 336,
@@ -463,7 +652,7 @@
     },
     {
       "serviceCode":"burnedshortcircuit",
-      "name": "Burned_Short circuit",
+      "name": "Burnt due to short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
       "slaHours": 336,
@@ -472,7 +661,7 @@
     },
     {
       "serviceCode":"burnedother",
-      "name": "Burned_Other",
+      "name": "Burnt due to other reasons",
       "keywords": "burned, other",
       "department": "O&M",
       "slaHours": 336,
@@ -517,7 +706,7 @@
     },
     {
       "serviceCode":"Others",
-      "name": "others",
+      "name": "other issues",
       "keywords": "others",
       "department": "O&M",
       "slaHours": 336,
@@ -525,8 +714,35 @@
       "active": true
     },
     {
+      "serviceCode":"Shifting",
+      "name": "Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "SWH",
+      "active": true
+    },
+    {
+      "serviceCode":"InstallationAndCommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "SWH",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "SWH",
+      "active": true
+    },
+    {
       "serviceCode":"Burnedduetolightning",
-      "name": "Burned_Due to Lightning",
+      "name": "Burnt due to Lightning",
       "keywords": "burned, due, lightning",
       "department": "O&M",
       "slaHours": 336,
@@ -535,7 +751,7 @@
     },
     {
       "serviceCode":"burnedshortcircuit",
-      "name": "Burned_Short circuit",
+      "name": "Burnt due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
       "slaHours": 336,
@@ -544,7 +760,7 @@
     },
     {
       "serviceCode":"burnedother",
-      "name": "Burned_Other",
+      "name": "Burnt due to other reasons",
       "keywords": "burned, other",
       "department": "O&M",
       "slaHours": 336,
@@ -589,7 +805,7 @@
     },
     {
       "serviceCode":"Others",
-      "name": "others",
+      "name": "other issues",
       "keywords": "others",
       "department": "O&M",
       "slaHours": 336,
@@ -597,8 +813,35 @@
       "active": true
     },
     {
+      "serviceCode":"Shifting",
+      "name": "Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "SWP",
+      "active": true
+    },
+    {
+      "serviceCode":"InstallationAndCommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "SWP",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "SWP",
+      "active": true
+    },
+    {
       "serviceCode":"Burnedduetolightning",
-      "name": "Burned_Due to Lightning",
+      "name": "Burned due to Lightning",
       "keywords": "others",
       "department": "O&M",
       "slaHours": 336,
@@ -607,7 +850,7 @@
     },
     {
       "serviceCode":"Burnedshortcircuit",
-      "name": "Burned_Short circuit",
+      "name": "Burned due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
       "slaHours": 336,
@@ -616,7 +859,7 @@
     },
     {
       "serviceCode":"Burnedother",
-      "name": "Burned_Other",
+      "name": "Burnt due to other issues",
       "keywords": "burned, other",
       "department": "O&M",
       "slaHours": 336,
@@ -643,7 +886,7 @@
     },
     {
       "serviceCode":"Other",
-      "name": "Other",
+      "name": "Other issues",
       "keywords": "other, lighting, arrestor",
       "department": "O&M",
       "slaHours": 336,
@@ -651,8 +894,35 @@
       "active": true
     },
     {
+      "serviceCode":"Shifting",
+      "name": "Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "LIGHTNING ARRESTOR",
+      "active": true
+    },
+    {
+      "serviceCode":"InstallationAndCommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "LIGHTNING ARRESTOR",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "LIGHTNING ARRESTOR",
+      "active": true
+    },
+    {
       "serviceCode":"Burnedduetolightning",
-      "name": "Burned_Due to Lightning",
+      "name": "Burned due to Lightning",
       "keywords": "others",
       "department": "O&M",
       "slaHours": 336,
@@ -661,7 +931,7 @@
     },
     {
       "serviceCode":"Burnedshortcircuit",
-      "name": "Burned_Short circuit",
+      "name": "Burned due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
       "slaHours": 336,
@@ -670,7 +940,7 @@
     },
     {
       "serviceCode":"Burnedother",
-      "name": "Burned_Other",
+      "name": "Burned due to other issues",
       "keywords": "burned, other",
       "department": "O&M",
       "slaHours": 336,
@@ -697,7 +967,7 @@
     },
     {
       "serviceCode":"Other",
-      "name": "Other",
+      "name": "Other issues",
       "keywords": "other, lighting, arrestor",
       "department": "O&M",
       "slaHours": 336,
@@ -705,8 +975,35 @@
       "active": true
     },
     {
+      "serviceCode":"Shifting",
+      "name": "Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath":"EARTHING CONNECTION",
+      "active": true
+    },
+    {
+      "serviceCode":"InstallationAndCommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "EARTHING CONNECTION",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "EARTHING CONNECTION",
+      "active": true
+    },
+    {
       "serviceCode":"Burnedduetolightning",
-      "name": "Burned_Due to Lightning",
+      "name": "Burned due to Lightning",
       "keywords": "others",
       "department": "O&M",
       "slaHours": 336,
@@ -715,7 +1012,7 @@
     },
     {
       "serviceCode":"Burnedshortcircuit",
-      "name": "Burned_Short circuit",
+      "name": "Burned due to short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
       "slaHours": 336,
@@ -724,7 +1021,7 @@
     },
     {
       "serviceCode":"Burnedother",
-      "name": "Burned_Other",
+      "name": "Burned due to other issues",
       "keywords": "burned, other",
       "department": "O&M",
       "slaHours": 336,
@@ -742,8 +1039,35 @@
     },
     {
       "serviceCode":"Other",
-      "name": "Other",
+      "name": "Other issues",
       "keywords": "other, lighting, arrestor",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "GIPB",
+      "active": true
+    },
+    {
+      "serviceCode":"Shifting",
+      "name": "Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "GIPB",
+      "active": true
+    },
+    {
+      "serviceCode":"InstallationAndCommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "GIPB",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
       "department": "O&M",
       "slaHours": 336,
       "menuPath": "GIPB",
@@ -760,7 +1084,7 @@
     },
     {
       "serviceCode":"MCBOff",
-      "name": "MCB Off",
+      "name": "MCB is Off",
       "keywords": "MCB Off",
       "department": "O&M",
       "slaHours": 336,
@@ -769,7 +1093,7 @@
     },
     {
       "serviceCode":"Burnedduetolightning",
-      "name": "Burned_Due to Lightning",
+      "name": "Burnt due to lightning",
       "keywords": "others",
       "department": "O&M",
       "slaHours": 336,
@@ -778,7 +1102,7 @@
     },
     {
       "serviceCode":"Burnedshortcircuit",
-      "name": "Burned_Short circuit",
+      "name": "Burnt due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
       "slaHours": 336,
@@ -787,7 +1111,7 @@
     },
     {
       "serviceCode":"Burnedother",
-      "name": "Burned_Other",
+      "name": "Burnt due to other issues",
       "keywords": "burned, other",
       "department": "O&M",
       "slaHours": 336,
@@ -805,7 +1129,7 @@
     },
     {
       "serviceCode":"Other",
-      "name": "Other",
+      "name": "Other issues",
       "keywords": "other, lighting, arrestor",
       "department": "O&M",
       "slaHours": 336,
@@ -831,12 +1155,57 @@
       "active": true
     },
     {
-      "serviceCode":"NoSPDinAJB",
-      "name": "No SPD in AJB",
+      "serviceCode":"NoSPD",
+      "name": "No SPD",
       "keywords": "no, spd, AJB",
       "department": "O&M",
       "slaHours": 336,
       "menuPath": "AJB",
+      "active": true
+    },
+    {
+      "serviceCode":"Shifting",
+      "name": "Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "AJB",
+      "active": true
+    },
+    {
+      "serviceCode":"InstallationAndCommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "AJB",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "AJB",
+      "active": true
+    },
+    {
+      "serviceCode":"SPDFailure",
+      "name": "SPD Failure",
+      "keywords": "SPD, failure",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "AJB",
+      "active": true
+    },
+    {
+      "serviceCode":"Burnedshortcircuit",
+      "name": "Burnt due to a short circuit",
+      "keywords": "burned, short, circuit",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "EEME",
       "active": true
     },
     {
@@ -849,8 +1218,8 @@
       "active": true
     },
     {
-      "serviceCode":"RadiantWarmer",
-      "name": "Radiant Warmer",
+      "serviceCode":"RadiantWarmerNotWorking",
+      "name": "Radiant Warmer Not working",
       "keywords": "radiant, warmer",
       "department": "O&M",
       "slaHours": 336,
@@ -858,8 +1227,8 @@
       "active": true
     },
     {
-      "serviceCode":"Suctionapparatus",
-      "name": "Suction apparatus",
+      "serviceCode":"SuctionapparatusNotWorking",
+      "name": "Suction apparatus Not working",
       "keywords": "suction, apparatus",
       "department": "O&M",
       "slaHours": 336,
@@ -868,7 +1237,7 @@
     },
     {
       "serviceCode":"Labourtable",
-      "name": "Labour table",
+      "name": "Labour table damaged",
       "keywords": "labour, table",
       "department": "O&M",
       "slaHours": 336,
@@ -877,7 +1246,7 @@
     },
     {
       "serviceCode":"Deliverykit",
-      "name": "Delivery kit",
+      "name": "Delivery kit damaged",
       "keywords": "delivery, kit",
       "department": "O&M",
       "slaHours": 336,
@@ -886,7 +1255,7 @@
     },
     {
       "serviceCode":"Footstep",
-      "name": "Foot Step",
+      "name": "Foot Step damaged",
       "keywords": "foot, step",
       "department": "O&M",
       "slaHours": 336,
@@ -895,7 +1264,7 @@
     },
     {
       "serviceCode":"Trolley",
-      "name": "Trolley",
+      "name": "Trolley damaged",
       "keywords": "foot, step",
       "department": "O&M",
       "slaHours": 336,
@@ -904,7 +1273,7 @@
     },
     {
       "serviceCode":"Portablevaccinecarrier",
-      "name": "Portable vaccine carrier",
+      "name": "Potable vaccine carrier Not working",
       "keywords": "portable, vaccine, carrier",
       "department": "O&M",
       "slaHours": 336,
@@ -913,7 +1282,7 @@
     },
     {
       "serviceCode":"ILR",
-      "name": "ILR",
+      "name": "ILR Not working",
       "keywords": "ILR",
       "department": "O&M",
       "slaHours": 336,
@@ -922,7 +1291,7 @@
     },
     {
       "serviceCode":"Refrigerator",
-      "name": "Refrigerator",
+      "name": "Refrigerator Not working",
       "keywords": "refrigerator",
       "department": "O&M",
       "slaHours": 336,
@@ -931,7 +1300,7 @@
     },
     {
       "serviceCode":"AutomatedExternal Defibrillator",
-      "name": "Automated External Defibrillator",
+      "name": "Automated External Defibrillator Not working",
       "keywords": "automated, external, defibrillator",
       "department": "O&M",
       "slaHours": 336,
@@ -940,7 +1309,7 @@
     },
     {
       "serviceCode":"CBCMachine",
-      "name":"CBC Machine",
+      "name":"CBC Machine Not working",
       "keywords": "cbc, Machine",
       "department": "O&M",
       "slaHours": 336,
@@ -949,7 +1318,7 @@
     },
     {
       "serviceCode":"Autoclave",
-      "name":"Autoclave",
+      "name":"Autoclave Not working",
       "keywords": "Autoclave",
       "department": "O&M",
       "slaHours": 336,
@@ -958,7 +1327,7 @@
     },
     {
       "serviceCode":"Centrifuge",
-      "name":"Centrifuge",
+      "name":"Centrifuge Not working",
       "keywords": "centrifuge",
       "department": "O&M",
       "slaHours": 336,
@@ -967,7 +1336,7 @@
     },
     {
       "serviceCode":"ECG",
-      "name":"ECG (12 Leads)",
+      "name":"ECG (12 Leads) Not working",
       "keywords": "ecg, 12, leads",
       "department": "O&M",
       "slaHours": 336,
@@ -976,7 +1345,7 @@
     },
     {
       "serviceCode":"Hematologyanalyser",
-      "name":"Hematology analyser",
+      "name":"Hematology analyser Not working",
       "keywords": "hematology,analyser",
       "department": "O&M",
       "slaHours": 336,
@@ -985,7 +1354,7 @@
     },
     {
       "serviceCode":"Biochemistryanalyser",
-      "name":"Biochemistry analyser",
+      "name":"Biochemistry analyser Not working",
       "keywords": "biochemistry,analyser",
       "department": "O&M",
       "slaHours": 336,
@@ -1012,7 +1381,7 @@
     },
     {
       "serviceCode":"Multiparamonitor",
-      "name":"Multipara monitor with provision of invasive parameter measurements",
+      "name":"Multipara monitor with provision of invasive parameter measurements Not working",
       "keywords": "multipara, monitor, invasive, parameter, measurements",
       "department": "O&M",
       "slaHours": 336,
@@ -1021,7 +1390,7 @@
     },
     {
       "serviceCode":"Nebulisermachine",
-      "name":"Nebuliser machine",
+      "name":"Nebuliser machine not working",
       "keywords": "nebuliser, machine",
       "department": "O&M",
       "slaHours": 336,
@@ -1030,7 +1399,7 @@
     },
     {
       "serviceCode":"USGPortable",
-      "name":"USG (Portable)",
+      "name":"USG (Portable) not working",
       "keywords": "USG, portable",
       "department": "O&M",
       "slaHours": 336,
@@ -1039,7 +1408,7 @@
     },
     {
       "serviceCode":"Needlecutter",
-      "name":"Needle Cutter",
+      "name":"Needle Cutter damaged",
       "keywords": "Needle, Cutter",
       "department": "O&M",
       "slaHours": 336,
@@ -1048,7 +1417,7 @@
     },
     {
       "serviceCode":"OxygenConcentrator",
-      "name":"Oxygen Concentrator",
+      "name":"Oxygen Concentrator not working",
       "keywords": "oxygen, concentrator",
       "department": "O&M",
       "slaHours": 336,
@@ -1057,7 +1426,7 @@
     },
     {
       "serviceCode":"Waterpurifier",
-      "name":"Water Purifier",
+      "name":"Water Purifier not working",
       "keywords": "water, purifier",
       "department": "O&M",
       "slaHours": 336,
@@ -1065,8 +1434,17 @@
       "active": true
     },
     {
+      "serviceCode":"printer",
+      "name":"Printer not working",
+      "keywords": "printer",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "EEME",
+      "active": true
+    },
+    {
       "serviceCode":"phototherapyunit",
-      "name":"Phototherapy unit",
+      "name":"Phototherapy unit not working",
       "keywords": "phototherapy, unit",
       "department": "O&M",
       "slaHours": 336,
@@ -1075,12 +1453,201 @@
     },
     {
       "serviceCode":"OTlight",
-      "name":"OT Light",
+      "name":"OT Light not working",
       "keywords": "ot, light",
       "department": "O&M",
       "slaHours": 336,
       "menuPath": "EEME",
       "active": true
-    }   
+    },
+    {
+      "serviceCode":"InstallationAndCommissioningissues",
+      "name": "Installation & commissioning issues",
+      "keywords": "installation, commissioning",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "EEME",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "EEME",
+      "active": true
+    },
+    {
+      "serviceCode":"Assemblyissues",
+      "name":"Assembly issues",
+      "keywords": "Assembly",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "MMS",
+      "active": true
+    },
+    {
+      "serviceCode":"Rusting",
+      "name":"Rusting",
+      "keywords": "Rusting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "MMS",
+      "active": true
+    },
+    {
+      "serviceCode":"Shifting",
+      "name":"Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "MMs",
+      "active": true
+    },
+    {
+      "serviceCode":"Theft",
+      "name":"Theft",
+      "keywords": "Theft",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "MMS",
+      "active": true
+    },
+    {
+      "serviceCode":"Other",
+      "name":"Other issues",
+      "keywords": "Other",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "MMS",
+      "active": true
+    },
+    {
+      "serviceCode":"Physicaldamage",
+      "name":"Physical damage",
+      "keywords": "Physical, damage",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "MMS",
+      "active": true
+    },
+    {
+      "serviceCode":"DisplacedbyHeavyWind",
+      "name":"Displaced by heavy wind",
+      "keywords": "displaced, heavy, wind",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "MMS",
+      "active": true
+    },
+    {
+      "serviceCode":"Wrongsizes",
+      "name":"Wrong sizes",
+      "keywords": "Wrong, sizes",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"Wrongconnection",
+      "name":"Wrong connection",
+      "keywords": "Wrong, connection",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"WithoutProperRouting",
+      "name":"Without proper routing",
+      "keywords": "Without, proper, routing",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"WithoutConduitPipes",
+      "name":"Without conduit pipes",
+      "keywords": "Without, conduit, pipes",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"Disconnected",
+      "name":"Disconnected",
+      "keywords": "Disconnected",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"JointsontheCableRouting",
+      "name":"Joints on the cable routing",
+      "keywords": "Joints, cable, routing",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"LoadWiringissues",
+      "name":"Load wiring issues",
+      "keywords": "Load, wiring",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"Theft",
+      "name":"Theft",
+      "keywords": "Theft",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"Other",
+      "name":"Other issues",
+      "keywords": "Other",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"Shifting",
+      "name": "Shifting",
+      "keywords": "Shifting",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"Electricalshocks",
+      "name": "Electrical shocks",
+      "keywords": "electrical, shocks",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    },
+    {
+      "serviceCode":"AdditionalcableRouting",
+      "name": "Additional cable routing",
+      "keywords": "Additional, cable, routing",
+      "department": "O&M",
+      "slaHours": 336,
+      "menuPath": "Cables",
+      "active": true
+    }
   ]
 }
