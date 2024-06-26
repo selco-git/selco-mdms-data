@@ -4,7 +4,7 @@
   "ServiceDefs": [
     {
       "serviceCode": "CrackPanelStone",
-      "name": "Crack on Panel (Due to stone pelting)",
+      "name": "Crack due to stone pelting",
       "keywords": "panel, crack, stone, pelting, repair, damage, fix",
       "department": "O&M",
       "slaHours": 336,
