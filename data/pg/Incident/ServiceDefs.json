@@ -7,7 +7,7 @@
       "name": "Crack due to stone pelting",
       "keywords": "panel, crack, stone, pelting, repair, damage, fix",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -16,7 +16,7 @@
       "name": "Crack due to tree branches falling",
       "keywords": "panel, crack, tree, branches, repair, damage, fix",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -25,7 +25,7 @@
       "name": "Crack due to animal interventions",
       "keywords": "panel, crack, monkey, branches, repair, damage, fix",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -34,7 +34,7 @@
       "name": "Hotspot",
       "keywords": "hot spot,panels",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -43,7 +43,7 @@
       "name": "Crack due to other reasons",
       "keywords": "panel, crack, other, branches, repair, damage, fix",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -52,7 +52,7 @@
       "name": "Dust",
       "keywords": "dust, panel",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -61,7 +61,7 @@
       "name": "Displaced from the structure due to heavy wind",
       "keywords": "displaced, mms, wind, heavy",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -70,7 +70,7 @@
       "name": "Displaced from the structure by the health center",
       "keywords": "displaced, mms, wind, health center",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -79,7 +79,7 @@
       "name": "Shade",
       "keywords": "shade, panel, on",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -88,7 +88,7 @@
       "name": "Theft",
       "keywords": "theft",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -97,7 +97,7 @@
       "name": "Other issues",
       "keywords": "other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -106,7 +106,7 @@
       "name": "Low power Generation",
       "keywords": "low, power, generation",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -115,7 +115,7 @@
       "name": "No power generation",
       "keywords": "no, power, generation",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -124,7 +124,7 @@
       "name": "Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -133,7 +133,7 @@
       "name": "electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Panel",
       "active": true
     },
@@ -142,7 +142,7 @@
       "name": "Shut down due to lightning",
       "keywords": "inverter, shutdown, lightning, repair, damage, fix",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -151,7 +151,7 @@
       "name": "Shut down due to grid issues",
       "keywords": "inverter, shutdown, grid, repair, damage, fix",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -160,7 +160,7 @@
       "name": "Tripping due to grid issues",
       "keywords": "tripping, grid, issues",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -169,7 +169,7 @@
       "name": "Tripping due to MCB rating issues",
       "keywords": "tripping, MCB, issues",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -178,7 +178,7 @@
       "name": "Tripping due to extra loads",
       "keywords": "tripping, extra, loads",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -187,7 +187,7 @@
       "name": "Display not Working",
       "keywords": "display, not, working",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -196,7 +196,7 @@
       "name": "Fan not Working",
       "keywords": "fans, not, working",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -205,7 +205,7 @@
       "name": "Continuous buzzer sound",
       "keywords": "continuous, buzzer",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -214,7 +214,7 @@
       "name": "Abnormal Sound",
       "keywords": "abnormal, sound",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -223,7 +223,7 @@
       "name": "Display error",
       "keywords": "error, on, display",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -232,7 +232,7 @@
       "name": "Theft",
       "keywords": "theft",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -241,7 +241,7 @@
       "name": "Other issues",
       "keywords": "other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -250,7 +250,7 @@
       "name": "Shifting",
       "keywords": "shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -259,7 +259,7 @@
       "name": "Installation & Commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -268,7 +268,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Inverter",
       "active": true
     },
@@ -277,7 +277,7 @@
       "name": "Burnt due to a short circuit",
       "keywords": "batter, burned, short circuit, repair, damage, fix",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -286,7 +286,7 @@
       "name": "Burnt due to lightning",
       "keywords": "battery, burned, lightning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -295,7 +295,7 @@
       "name": "Blast due to short circuit",
       "keywords": "short, circuit, blasted",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -304,7 +304,7 @@
       "name": "Blast due to lightning",
       "keywords": "blasted, lightning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -313,7 +313,7 @@
       "name": "No petroleum jelly in battery terminals",
       "keywords": "pertrol, get, termincation",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -322,7 +322,7 @@
       "name": "Low battery water level",
       "keywords": "low, battery,water,level",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -331,7 +331,7 @@
       "name": "Breakage of Caps",
       "keywords": "breakage, caps",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -340,7 +340,7 @@
       "name": "Physical damage to battery cell caps",
       "keywords": "physical, damage, batteries",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -349,7 +349,7 @@
       "name": "Physical damage",
       "keywords": "physical, damage",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -358,7 +358,7 @@
       "name": "Battery rack damage",
       "keywords": "rack, damage, battery",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -367,7 +367,7 @@
       "name": "Loose cables in battery connections",
       "keywords": "loose, cable, battery, connections",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -376,7 +376,7 @@
       "name": "Dust",
       "keywords": "Dust",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -385,7 +385,7 @@
       "name": "Deep discharge",
       "keywords": "deep, discharge",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -394,7 +394,7 @@
       "name": "Low  backup",
       "keywords": "low, backup",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -403,7 +403,7 @@
       "name": "Theft",
       "keywords": "theft",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -412,7 +412,7 @@
       "name": "Acid Leakage",
       "keywords": "acid, leakage",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -421,7 +421,7 @@
       "name": "Other issues",
       "keywords": "Other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -430,7 +430,7 @@
       "name": "Shifting",
       "keywords": "shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -439,7 +439,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -448,7 +448,7 @@
       "name": "Fast draining of distilled water",
       "keywords": "Fast, draining, distilled, water",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -457,7 +457,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Battery",
       "active": true
     },
@@ -466,7 +466,7 @@
       "name": "Indoor light burnt",
       "keywords": "Burned, indoor, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -475,7 +475,7 @@
       "name": "Indoor light not working",
       "keywords": "Not, working, indoor, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -484,7 +484,7 @@
       "name": "Indoor light switch not working",
       "keywords": "switch, issue, indoor lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -493,7 +493,7 @@
       "name": "Outdoor light burnt",
       "keywords": "burned, outdoor, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -502,7 +502,7 @@
       "name": "Outdoor light not working",
       "keywords": "not, working, outdoor, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -511,7 +511,7 @@
       "name": "Outdoor light switch not working",
       "keywords": "switch, issue, outdoor, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -520,7 +520,7 @@
       "name": "Not working_Street lights",
       "keywords": "Not, working, street, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -529,7 +529,7 @@
       "name": "Switch issue_Street lights",
       "keywords": "switch, issue, street, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -538,7 +538,7 @@
       "name": "Theft of lights",
       "keywords": "theft, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -547,7 +547,7 @@
       "name": "Other issues to the lights",
       "keywords": "other, lights",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -556,7 +556,7 @@
       "name": "Fan burned",
       "keywords": "burned, fans",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -565,7 +565,7 @@
       "name": "Fan not working",
       "keywords": "not, working, fans",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -574,7 +574,7 @@
       "name": "Fan switch is not working",
       "keywords": "switch, not, working, fans",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -583,7 +583,7 @@
       "name": "Fan regulator is not working",
       "keywords": "regulator, issue, fans, not, working",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -592,7 +592,7 @@
       "name": "Low fan speed",
       "keywords": "regulator, issue, fans",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -601,7 +601,7 @@
       "name": "Theft of fans",
       "keywords": "theft, fans",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -610,7 +610,7 @@
       "name": "Other issues to the fans",
       "keywords": "other, fans",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -619,7 +619,7 @@
       "name": "Shifting of the Lights & Fans",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -628,7 +628,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -637,7 +637,7 @@
       "name": "Electrical shocks",
       "keywords": "Electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Lights Fans",
       "active": true
     },
@@ -646,7 +646,7 @@
       "name": "Burnt due to lightning",
       "keywords": "burned, due, lightning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -655,7 +655,7 @@
       "name": "Burnt due to short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -664,7 +664,7 @@
       "name": "Burnt due to other reasons",
       "keywords": "burned, other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -673,7 +673,7 @@
       "name": "Not Working",
       "keywords": "not, working",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -682,7 +682,7 @@
       "name": "Loose Cables",
       "keywords": "not, working",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -691,7 +691,7 @@
       "name": "Abnormal sound",
       "keywords": "abnormal, sound",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -700,7 +700,7 @@
       "name": "Theft",
       "keywords": "theft",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -709,7 +709,7 @@
       "name": "other issues",
       "keywords": "others",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -718,7 +718,7 @@
       "name": "Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -727,7 +727,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -736,7 +736,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWH",
       "active": true
     },
@@ -745,7 +745,7 @@
       "name": "Burnt due to Lightning",
       "keywords": "burned, due, lightning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -754,7 +754,7 @@
       "name": "Burnt due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -763,7 +763,7 @@
       "name": "Burnt due to other reasons",
       "keywords": "burned, other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -772,7 +772,7 @@
       "name": "Not Working",
       "keywords": "not, working",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -781,7 +781,7 @@
       "name": "Loose Cables",
       "keywords": "not, working",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -790,7 +790,7 @@
       "name": "Abnormal sound",
       "keywords": "abnormal, sound",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -799,7 +799,7 @@
       "name": "Theft",
       "keywords": "theft",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -808,7 +808,7 @@
       "name": "other issues",
       "keywords": "others",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -817,7 +817,7 @@
       "name": "Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -826,7 +826,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -835,7 +835,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "SWP",
       "active": true
     },
@@ -844,7 +844,7 @@
       "name": "Burned due to Lightning",
       "keywords": "others",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -853,7 +853,7 @@
       "name": "Burned due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -862,7 +862,7 @@
       "name": "Burnt due to other issues",
       "keywords": "burned, other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -871,7 +871,7 @@
       "name": "Broken",
       "keywords": "broken",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -880,7 +880,7 @@
       "name": "Theft",
       "keywords": "theft, lighting, arrestor",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -889,7 +889,7 @@
       "name": "Other issues",
       "keywords": "other, lighting, arrestor",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -898,7 +898,7 @@
       "name": "Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -907,7 +907,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -916,7 +916,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "LIGHTNING ARRESTOR",
       "active": true
     },
@@ -925,7 +925,7 @@
       "name": "Burned due to Lightning",
       "keywords": "others",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
       "active": true
     },
@@ -934,7 +934,7 @@
       "name": "Burned due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
       "active": true
     },
@@ -943,7 +943,7 @@
       "name": "Burned due to other issues",
       "keywords": "burned, other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
       "active": true
     },
@@ -952,7 +952,7 @@
       "name": "Broken",
       "keywords": "broken",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
       "active": true
     },
@@ -961,7 +961,7 @@
       "name": "Theft",
       "keywords": "theft, lighting, arrestor",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
       "active": true
     },
@@ -970,7 +970,7 @@
       "name": "Other issues",
       "keywords": "other, lighting, arrestor",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
       "active": true
     },
@@ -979,7 +979,7 @@
       "name": "Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath":"EARTHING CONNECTION",
       "active": true
     },
@@ -988,7 +988,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
       "active": true
     },
@@ -997,7 +997,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EARTHING CONNECTION",
       "active": true
     },
@@ -1006,7 +1006,7 @@
       "name": "Burned due to Lightning",
       "keywords": "others",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1015,7 +1015,7 @@
       "name": "Burned due to short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1024,7 +1024,7 @@
       "name": "Burned due to other issues",
       "keywords": "burned, other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1033,7 +1033,7 @@
       "name": "Theft",
       "keywords": "theft, lighting, arrestor",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1042,7 +1042,7 @@
       "name": "Other issues",
       "keywords": "other, lighting, arrestor",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1051,7 +1051,7 @@
       "name": "Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1060,7 +1060,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1069,7 +1069,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1078,7 +1078,7 @@
       "name": "Tripping",
       "keywords": "tripping",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1087,7 +1087,7 @@
       "name": "MCB is Off",
       "keywords": "MCB Off",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "GIPB",
       "active": true
     },
@@ -1096,7 +1096,7 @@
       "name": "Burnt due to lightning",
       "keywords": "others",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1105,7 +1105,7 @@
       "name": "Burnt due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1114,7 +1114,7 @@
       "name": "Burnt due to other issues",
       "keywords": "burned, other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1123,7 +1123,7 @@
       "name": "Theft",
       "keywords": "theft, lighting, arrestor",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1132,7 +1132,7 @@
       "name": "Other issues",
       "keywords": "other, lighting, arrestor",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1141,7 +1141,7 @@
       "name": "Tripping",
       "keywords": "tripping",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1150,7 +1150,7 @@
       "name": "MCB Off",
       "keywords": "MCB Off",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1159,7 +1159,7 @@
       "name": "No SPD",
       "keywords": "no, spd, AJB",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1168,7 +1168,7 @@
       "name": "Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1177,7 +1177,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1186,7 +1186,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1195,7 +1195,7 @@
       "name": "SPD Failure",
       "keywords": "SPD, failure",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "AJB",
       "active": true
     },
@@ -1204,7 +1204,7 @@
       "name": "Burnt due to a short circuit",
       "keywords": "burned, short, circuit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1213,7 +1213,7 @@
       "name": "Spot Light",
       "keywords": "spot, light",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1222,7 +1222,7 @@
       "name": "Radiant Warmer Not working",
       "keywords": "radiant, warmer",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1231,7 +1231,7 @@
       "name": "Suction apparatus Not working",
       "keywords": "suction, apparatus",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1240,7 +1240,7 @@
       "name": "Labour table damaged",
       "keywords": "labour, table",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1249,7 +1249,7 @@
       "name": "Delivery kit damaged",
       "keywords": "delivery, kit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1258,7 +1258,7 @@
       "name": "Foot Step damaged",
       "keywords": "foot, step",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1267,7 +1267,7 @@
       "name": "Trolley damaged",
       "keywords": "foot, step",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1276,7 +1276,7 @@
       "name": "Potable vaccine carrier Not working",
       "keywords": "portable, vaccine, carrier",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1285,7 +1285,7 @@
       "name": "ILR Not working",
       "keywords": "ILR",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1294,7 +1294,7 @@
       "name": "Refrigerator Not working",
       "keywords": "refrigerator",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1303,7 +1303,7 @@
       "name": "Automated External Defibrillator Not working",
       "keywords": "automated, external, defibrillator",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1312,7 +1312,7 @@
       "name":"CBC Machine Not working",
       "keywords": "cbc, Machine",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1321,7 +1321,7 @@
       "name":"Autoclave Not working",
       "keywords": "Autoclave",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1330,7 +1330,7 @@
       "name":"Centrifuge Not working",
       "keywords": "centrifuge",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1339,7 +1339,7 @@
       "name":"ECG (12 Leads) Not working",
       "keywords": "ecg, 12, leads",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1348,7 +1348,7 @@
       "name":"Hematology analyser Not working",
       "keywords": "hematology,analyser",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1357,7 +1357,7 @@
       "name":"Biochemistry analyser Not working",
       "keywords": "biochemistry,analyser",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1366,7 +1366,7 @@
       "name":"Hematology analyser",
       "keywords": "hematology,analyser",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1375,7 +1375,7 @@
       "name":"Microscope",
       "keywords": "microscope",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1384,7 +1384,7 @@
       "name":"Multipara monitor with provision of invasive parameter measurements Not working",
       "keywords": "multipara, monitor, invasive, parameter, measurements",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1393,7 +1393,7 @@
       "name":"Nebuliser machine not working",
       "keywords": "nebuliser, machine",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1402,7 +1402,7 @@
       "name":"USG (Portable) not working",
       "keywords": "USG, portable",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1411,7 +1411,7 @@
       "name":"Needle Cutter damaged",
       "keywords": "Needle, Cutter",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1420,7 +1420,7 @@
       "name":"Oxygen Concentrator not working",
       "keywords": "oxygen, concentrator",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1429,7 +1429,7 @@
       "name":"Water Purifier not working",
       "keywords": "water, purifier",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1438,7 +1438,7 @@
       "name":"Printer not working",
       "keywords": "printer",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1447,7 +1447,7 @@
       "name":"Phototherapy unit not working",
       "keywords": "phototherapy, unit",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1456,7 +1456,7 @@
       "name":"OT Light not working",
       "keywords": "ot, light",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1465,7 +1465,7 @@
       "name": "Installation & commissioning issues",
       "keywords": "installation, commissioning",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1474,7 +1474,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "EEME",
       "active": true
     },
@@ -1483,7 +1483,7 @@
       "name":"Assembly issues",
       "keywords": "Assembly",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "MMS",
       "active": true
     },
@@ -1492,7 +1492,7 @@
       "name":"Rusting",
       "keywords": "Rusting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "MMS",
       "active": true
     },
@@ -1501,7 +1501,7 @@
       "name":"Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "MMs",
       "active": true
     },
@@ -1510,7 +1510,7 @@
       "name":"Theft",
       "keywords": "Theft",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "MMS",
       "active": true
     },
@@ -1519,7 +1519,7 @@
       "name":"Other issues",
       "keywords": "Other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "MMS",
       "active": true
     },
@@ -1528,7 +1528,7 @@
       "name":"Physical damage",
       "keywords": "Physical, damage",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "MMS",
       "active": true
     },
@@ -1537,7 +1537,7 @@
       "name":"Displaced by heavy wind",
       "keywords": "displaced, heavy, wind",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "MMS",
       "active": true
     },
@@ -1546,7 +1546,7 @@
       "name":"Wrong sizes",
       "keywords": "Wrong, sizes",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1555,7 +1555,7 @@
       "name":"Wrong connection",
       "keywords": "Wrong, connection",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1564,7 +1564,7 @@
       "name":"Without proper routing",
       "keywords": "Without, proper, routing",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1573,7 +1573,7 @@
       "name":"Without conduit pipes",
       "keywords": "Without, conduit, pipes",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1582,7 +1582,7 @@
       "name":"Disconnected",
       "keywords": "Disconnected",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1591,7 +1591,7 @@
       "name":"Joints on the cable routing",
       "keywords": "Joints, cable, routing",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1600,7 +1600,7 @@
       "name":"Load wiring issues",
       "keywords": "Load, wiring",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1609,7 +1609,7 @@
       "name":"Theft",
       "keywords": "Theft",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1618,7 +1618,7 @@
       "name":"Other issues",
       "keywords": "Other",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1627,7 +1627,7 @@
       "name": "Shifting",
       "keywords": "Shifting",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1636,7 +1636,7 @@
       "name": "Electrical shocks",
       "keywords": "electrical, shocks",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     },
@@ -1645,7 +1645,7 @@
       "name": "Additional cable routing",
       "keywords": "Additional, cable, routing",
       "department": "O&M",
-      "slaHours": 336,
+      "slaHours": 264,
       "menuPath": "Cables",
       "active": true
     }
