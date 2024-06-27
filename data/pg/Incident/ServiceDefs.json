@@ -1362,15 +1362,6 @@
       "active": true
     },
     {
-      "serviceCode":"Hematologyanalyser",
-      "name":"Hematology analyser",
-      "keywords": "hematology,analyser",
-      "department": "O&M",
-      "slaHours": 264,
-      "menuPath": "EEME",
-      "active": true
-    },
-    {
       "serviceCode":"Microscope",
       "name":"Microscope",
       "keywords": "microscope",
@@ -1502,7 +1493,7 @@
       "keywords": "Shifting",
       "department": "O&M",
       "slaHours": 264,
-      "menuPath": "MMs",
+      "menuPath": "MMS",
       "active": true
     },
     {
