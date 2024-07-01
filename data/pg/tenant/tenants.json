@@ -345,7 +345,7 @@
     "contactNumber": "7899751921"
   },
   {
-    "code": "pg.lbsurbanprimaryhealthcentre",
+    "code": "pg.lbsnagarurbanprimaryhealthcentre",
     "name": "LBS Nagar Urban Primary Health Centre",
     "description": "LBS Nagar Urban Primary Health Centre",
     "centreType": "UPHC",
@@ -365,7 +365,7 @@
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.raichur",
-      "districtTenantCode": "pg.lbsurbanprimaryhealthcentre",
+      "districtTenantCode": "pg.lbsnagarurbanprimaryhealthcentre",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
