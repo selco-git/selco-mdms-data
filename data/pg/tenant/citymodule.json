@@ -916,7 +916,7 @@
             "code": "pg.mallat"
         },
         {
-            "code": "pg.pamankallur"
+            "code": "pg.pamankallurphc"
         },
         {
             "code": "pg.pothnal"
@@ -1012,13 +1012,16 @@
             "code": "pg.ragalaparvi"
         },
         {
-            "code": "pg.phcvasatigruhaturvihal1"
+            "code": "pg.phcvasatigruhaturvihalone"
         },
         {
-            "code": "pg.phcvasatigruhaturvihal2"
+            "code": "pg.phcvasatigruhaturvihaltwo"
         },
         {
-            "code": "pg.gorebal"
+          "code": "pg.gorebalsindhanur"
+        },
+        {
+           "code": "pg.goreballingasugur"
         },
         {
             "code": "pg.hampanal"
@@ -1883,7 +1886,7 @@
             "code": "pg.mallat"
         },
         {
-            "code": "pg.pamankallur"
+            "code": "pg.pamankallurphc"
         },
         {
             "code": "pg.pothnal"
@@ -1979,13 +1982,16 @@
             "code": "pg.ragalaparvi"
         },
         {
-            "code": "pg.phcvasatigruhaturvihal1"
+            "code": "pg.phcvasatigruhaturvihalone"
         },
         {
-            "code": "pg.phcvasatigruhaturvihal2"
+            "code": "pg.phcvasatigruhaturvihaltwo"
         },
         {
-            "code": "pg.gorebal"
+            "code": "pg.gorebalsindhanur"
+        },
+        {
+          "code": "pg.goreballingasugur"
         },
         {
             "code": "pg.hampanal"
