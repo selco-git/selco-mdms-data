@@ -5347,9 +5347,9 @@
       "contactNumber": "9620450208"
     },
     {
-      "code": "pg.hirekotnekal",
-      "name": "Hire-kotnekal",
-      "description": "Hire-kotnekal",
+      "code": "pg.hirekotnekalsc",
+      "name": "Hire-kotnekal SC",
+      "description": "Hire-kotnekal SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -5362,12 +5362,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Hire-kotnekal",
+        "name": "Hire-kotnekal SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.hirekotnekal",
+        "districtTenantCode": "pg.hirekotnekalsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
