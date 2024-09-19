@@ -493,7 +493,7 @@
           "code": "pg.mustur"
         },
         {
-          "code": "pg.masarkal"
+          "code": "pg.masarkalphc"
         },
         {
           "code": "pg.kopparsc"
@@ -526,7 +526,7 @@
           "code": "pg.ramdurga"
         },
         {
-          "code": "pg.gabbur"
+          "code": "pg.gabbursc"
         },
         {
           "code": "pg.nagadadinni"
@@ -715,22 +715,25 @@
           "code": "pg.ballatagi"
         },
         {
-          "code": "pg.byagawat"
+          "code": "pg.byagawatsc"
         },
         {
           "code": "pg.hirekotnekal"
         },
         {
-          "code": "pg.pothnal"
+          "code": "pg.pothnalsc"
         },
         {
-          "code": "pg.thoranadinni"
+          "code": "pg.thoranadinnisc"
         },
         {
           "code": "pg.kallur"
         },     
         {
-          "code": "pg.gunjahalli"
+          "code": "pg.gunjahallisc"
+        },
+        {
+          "code": "pg.gunjahalliphc"
         },
         {
             "code": "pg.athukur"
@@ -757,7 +760,10 @@
             "code": "pg.hosur"
         },
         {
-            "code": "pg.idapanur"
+            "code": "pg.idapanursc"
+        },
+        {
+          "code": "pg.idapanurphc"
         },
         {
             "code": "pg.jagarkal"
@@ -793,7 +799,10 @@
             "code": "pg.yedlapur"
         },
         {
-            "code": "pg.yapaldinni"
+            "code": "pg.yapaldinnisc"
+        },
+        {
+          "code": "pg.yapaldinniphc"
         },
         {
             "code": "pg.talameri"
@@ -829,7 +838,7 @@
             "code": "pg.yermarus"
         },
         {
-            "code": "pg.thoranadinni"
+            "code": "pg.thoranadinniphc"
         },
         {
             "code": "pg.janekal"
@@ -853,8 +862,11 @@
             "code": "pg.kharabdinni"
         },
         {
-            "code": "pg.kurdi"
+            "code": "pg.kurdisc"
         },
+        {
+          "code": "pg.kurdiphc"
+      },
         {
             "code": "pg.ckotnekal"
         },
@@ -889,7 +901,7 @@
             "code": "pg.hirehangi"
         },
         {
-            "code": "pg.byagawat"
+            "code": "pg.byagawatphc"
         },
         {
             "code": "pg.balllatagi"
@@ -907,7 +919,7 @@
             "code": "pg.pamankallur"
         },
         {
-            "code": "pg.pothnal"
+            "code": "pg.pothnalphc"
         },
         {
             "code": "pg.pothnaldrrroomsubcentre"
@@ -946,7 +958,10 @@
             "code": "pg.hemnur"
         },
         {
-            "code": "pg.chinchodi"
+            "code": "pg.chinchodisc"
+        },
+        {
+          "code": "pg.chinchodiphc"
         },
         {
             "code": "pg.jalahallia"
@@ -979,7 +994,7 @@
             "code": "pg.wandli"
         },
         {
-            "code": "pg.gabbur"
+            "code": "pg.gabburphc"
         },
         {
             "code": "pg.ganadala"
@@ -988,7 +1003,7 @@
             "code": "pg.hbudoor"
         },
         {
-            "code": "pg.masarkal"
+            "code": "pg.masarkalsc"
         },
         {
             "code": "pg.koppar"
@@ -1099,8 +1114,11 @@
             "code": "pg.sarjapur"
         },
         {
-            "code": "pg.nagarahal"
+            "code": "pg.nagarahalsc"
         },
+        {
+          "code": "pg.nagarahalphc"
+      },
         {
             "code": "pg.chitapur"
         },
@@ -1111,11 +1129,17 @@
             "code": "pg.dbhupur"
         },
         {
-            "code": "pg.echanal"
+            "code": "pg.echanalsc"
         },
         {
-            "code": "pg.rodalabanda"
+          "code": "pg.echanalphc"
+      },
+        {
+            "code": "pg.rodalabandaphc"
         },
+        {
+          "code": "pg.rodalabandasc"
+      },
         {
             "code": "pg.gonawatla"
         },
@@ -1129,7 +1153,10 @@
             "code": "pg.kota"
         },
         {
-            "code": "pg.sajjalgudda"
+            "code": "pg.sajjalguddasc"
+        },
+        {
+          "code": "pg.sajjalguddaphc"
         },
         {
             "code": "pg.narakaldinni"
@@ -1439,7 +1466,7 @@
           "code": "pg.mustur"
         },
         {
-          "code": "pg.masarkal"
+          "code": "pg.masarkalphc"
         },
         {
           "code": "pg.kopparsc"
@@ -1472,7 +1499,7 @@
           "code": "pg.ramdurga"
         },
         {
-          "code": "pg.gabbur"
+          "code": "pg.gabbursc"
         },
         {
           "code": "pg.nagadadinni"
@@ -1661,22 +1688,19 @@
           "code": "pg.ballatagi"
         },
         {
-          "code": "pg.byagawat"
+          "code": "pg.byagawatsc"
         },
         {
           "code": "pg.hirekotnekal"
         },
         {
-          "code": "pg.pothnal"
+          "code": "pg.pothnalsc"
         },
         {
-          "code": "pg.thoranadinni"
+          "code": "pg.thoranadinnisc"
         },
         {
           "code": "pg.kallur"
-        },
-        {
-          "code": "pg.gunjahalli"
         },
         {
             "code": "pg.athukur"
@@ -1703,7 +1727,10 @@
             "code": "pg.hosur"
         },
         {
-            "code": "pg.idapanur"
+            "code": "pg.idapanurphc"
+        },
+        {
+          "code": "pg.idapanursc"
         },
         {
             "code": "pg.jagarkal"
@@ -1739,7 +1766,10 @@
             "code": "pg.yedlapur"
         },
         {
-            "code": "pg.yapaldinni"
+            "code": "pg.yapaldinniphc"
+        },
+        {
+          "code": "pg.yapaldinnisc"
         },
         {
             "code": "pg.talameri"
@@ -1775,7 +1805,7 @@
             "code": "pg.yermarus"
         },
         {
-            "code": "pg.thoranadinni"
+            "code": "pg.thoranadinniphc"
         },
         {
             "code": "pg.janekal"
@@ -1799,8 +1829,11 @@
             "code": "pg.kharabdinni"
         },
         {
-            "code": "pg.kurdi"
+            "code": "pg.kurdisc"
         },
+        {
+          "code": "pg.kurdiphc"
+      },
         {
             "code": "pg.ckotnekal"
         },
@@ -1835,7 +1868,7 @@
             "code": "pg.hirehangi"
         },
         {
-            "code": "pg.byagawat"
+            "code": "pg.byagawatphc"
         },
         {
             "code": "pg.balllatagi"
@@ -1853,7 +1886,7 @@
             "code": "pg.pamankallur"
         },
         {
-            "code": "pg.pothnal"
+            "code": "pg.pothnalphc"
         },
         {
             "code": "pg.pothnaldrrroomsubcentre"
@@ -1892,7 +1925,10 @@
             "code": "pg.hemnur"
         },
         {
-            "code": "pg.chinchodi"
+            "code": "pg.chinchodisc"
+        },
+        {
+          "code": "pg.chinchodiphc"
         },
         {
             "code": "pg.jalahallia"
@@ -1925,7 +1961,7 @@
             "code": "pg.wandli"
         },
         {
-            "code": "pg.gabbur"
+            "code": "pg.gabburphc"
         },
         {
             "code": "pg.ganadala"
@@ -1934,7 +1970,7 @@
             "code": "pg.hbudoor"
         },
         {
-            "code": "pg.masarkal"
+            "code": "pg.masarkalsc"
         },
         {
             "code": "pg.koppar"
@@ -2045,7 +2081,10 @@
             "code": "pg.sarjapur"
         },
         {
-            "code": "pg.nagarahal"
+            "code": "pg.nagarahalsc"
+        },
+        {
+          "code": "pg.nagarahalphc"
         },
         {
             "code": "pg.chitapur"
@@ -2057,11 +2096,17 @@
             "code": "pg.dbhupur"
         },
         {
-            "code": "pg.echanal"
+            "code": "pg.echanalsc"
         },
         {
-            "code": "pg.rodalabanda"
+          "code": "pg.echanalphc"
         },
+        {
+            "code": "pg.rodalabandasc"
+        },
+        {
+          "code": "pg.rodalabandaphc"
+      },
         {
             "code": "pg.gonawatla"
         },
@@ -2075,8 +2120,11 @@
             "code": "pg.kota"
         },
         {
-            "code": "pg.sajjalgudda"
+            "code": "pg.sajjalguddasc"
         },
+        {
+          "code": "pg.sajjalguddaphc"
+      },
         {
             "code": "pg.narakaldinni"
         },

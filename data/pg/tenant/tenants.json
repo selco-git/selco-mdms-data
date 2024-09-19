@@ -753,9 +753,9 @@
     "contactNumber": "7975537552"
   },
   {
-    "code": "pg.masarkal",
-    "name": "Masarkal",
-    "description": "Masarkal",
+    "code": "pg.masarkalphc",
+    "name": "Masarkal PHC",
+    "description": "Masarkal PHC",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -768,12 +768,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Masarkal",
+      "name": "Masarkal PHC",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.devadurga",
-      "districtTenantCode": "pg.masarkal",
+      "districtTenantCode": "pg.masarkalphc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -1127,9 +1127,9 @@
     "contactNumber": "6361563725"
   },
   {
-    "code": "pg.gabbur",
-    "name": "Gabbur",
-    "description": "Gabbur",
+    "code": "pg.gabburphc",
+    "name": "Gabbur PHC",
+    "description": "Gabbur PHC",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -1142,12 +1142,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Gabbur",
+      "name": "Gabbur PHC",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.devadurga",
-      "districtTenantCode": "pg.gabbur",
+      "districtTenantCode": "pg.gabburphc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -3166,40 +3166,7 @@
     "address": "Karnataka",
     "contactNumber": "7760447692"
   },
-  {
-    "code": "pg.pamankallur",
-    "name": "Pamankallur",
-    "description": "Pamankallur",
-    "centreType": "SC",
-    "pincode": null,
-    "domainUrl": "https://e4h-dev.selcofoundation.org",
-    "type": "SC",
-    "logoId": "https://selco-assets.s3.ap-south-1.amazonaws.com/logo.png",
-    "imageId": null,
-    "twitterUrl": null,
-    "facebookUrl": null,
-    "OfficeTimings": {
-      "Mon - Fri": "9.00 AM - 6.00 PM"
-    },
-    "city": {
-      "name": "Pamankallur",
-      "localName": null,
-      "districtCode": "RAICHUR",
-      "districtName": "Raichur",
-      "blockCode": "raichur.manvi",
-      "districtTenantCode": "pg.pamankallur",
-      "regionName": null,
-      "ulbGrade": null,
-      "longitude": null,
-      "latitude": null,
-      "shapeFileLocation": null,
-      "captcha": null,
-      "code": "KA-RCH-7652482865",
-      "ddrName": null
-    },
-    "address": "Karnataka",
-    "contactNumber": "9480840609"
-  },
+  
   {
     "code": "pg.sirwar",
     "name": "Sirwar",
@@ -3269,9 +3236,9 @@
     "contactNumber": "9986008901"
   },
   {
-    "code": "pg.byagawat",
-    "name": "Byagawat",
-    "description": "Byagawat",
+    "code": "pg.byagawatphc",
+    "name": "Byagawat PHC",
+    "description": "Byagawat PHC",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -3284,12 +3251,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Byagawat",
+      "name": "Byagawat PHC",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.manvi",
-      "districtTenantCode": "pg.byagawat",
+      "districtTenantCode": "pg.byagawatphc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -3337,9 +3304,9 @@
     "contactNumber": "9741132578"
   },
   {
-    "code": "pg.pothnal",
-    "name": "Pothnal",
-    "description": "Pothnal",
+    "code": "pg.pothnalphc",
+    "name": "Pothnal PHC",
+    "description": "Pothnal PHC",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -3352,12 +3319,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Pothnal",
+      "name": "Pothnal PHC",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.manvi",
-      "districtTenantCode": "pg.pothnal",
+      "districtTenantCode": "pg.pothnalphc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -3371,9 +3338,9 @@
     "contactNumber": "7019705987"
   },
   {
-    "code": "pg.thoranadinni",
-    "name": "Thoranadinni",
-    "description": "Thoranadinni",
+    "code": "pg.thoranadinniphc",
+    "name": "Thoranadinni PHC",
+    "description": "Thoranadinni PHC",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -3386,12 +3353,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Thoranadinni",
+      "name": "Thoranadinni PHC",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.manvi",
-      "districtTenantCode": "pg.thoranadinni",
+      "districtTenantCode": "pg.thoranadinniphc",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -3510,9 +3477,9 @@
     },
 
       {
-      "code": "pg.gunjahalli",
-      "name": "Gunjahalli",
-      "description": "Gunjahalli",
+      "code": "pg.gunjahalliphc",
+      "name": "Gunjahalli PHC",
+      "description": "Gunjahalli PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -3525,12 +3492,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Gunjahalli",
+        "name": "Gunjahalli PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.gunjahalli",
+        "districtTenantCode": "pg.gunjahalliphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3816,9 +3783,9 @@
       "contactNumber": "8197595999"
     },
     {
-      "code": "pg.idapanur",
-      "name": "Idapanur",
-      "description": "Idapanur",
+      "code": "pg.idapanursc",
+      "name": "Idapanur SC",
+      "description": "Idapanur SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -3831,12 +3798,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Idapanur",
+        "name": "Idapanur SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.idapanur",
+        "districtTenantCode": "pg.idapanursc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4224,9 +4191,9 @@
       "contactNumber": "9980210646"
     },
     {
-      "code": "pg.yapaldinni",
-      "name": "Yapaldinni",
-      "description": "Yapaldinni",
+      "code": "pg.yapaldinniphc",
+      "name": "Yapaldinni PHC",
+      "description": "Yapaldinni PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -4239,12 +4206,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Yapaldinni",
+        "name": "Yapaldinni PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.yapaldinni",
+        "districtTenantCode": "pg.yapaldinniphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4462,9 +4429,9 @@
       "contactNumber": "7760394507"
     },
     {
-      "code": "pg.gunjahalli",
-      "name": "Gunjahalli",
-      "description": "Gunjahalli",
+      "code": "pg.gunjahallisc",
+      "name": "Gunjahalli SC",
+      "description": "Gunjahalli SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -4477,12 +4444,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Gunjahalli",
+        "name": "Gunjahalli SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.gunjahalli",
+        "districtTenantCode": "pg.gunjahallisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4564,9 +4531,9 @@
       "contactNumber": "9844193931"
     },
     {
-      "code": "pg.yapaldinni",
-      "name": "Yapaldinni",
-      "description": "Yapaldinni",
+      "code": "pg.yapaldinnisc",
+      "name": "Yapaldinni SC",
+      "description": "Yapaldinni SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -4579,12 +4546,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Yapaldinni",
+        "name": "Yapaldinni SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.yapaldinni",
+        "districtTenantCode": "pg.yapaldinnisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4700,9 +4667,9 @@
       "contactNumber": "960655145"
     },
     {
-      "code": "pg.idapanur",
-      "name": "Idapanur",
-      "description": "Idapanur",
+      "code": "pg.idapanurphc",
+      "name": "Idapanur PHC",
+      "description": "Idapanur PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -4715,12 +4682,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Idapanur",
+        "name": "Idapanur PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.idapanur",
+        "districtTenantCode": "pg.idapanurphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -4734,9 +4701,9 @@
       "contactNumber": "8197701727"
     },
     {
-      "code": "pg.thoranadinni",
-      "name": "Thoranadinni",
-      "description": "Thoranadinni",
+      "code": "pg.thoranadinnisc",
+      "name": "Thoranadinni SC",
+      "description": "Thoranadinni SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -4749,12 +4716,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Thoranadinni",
+        "name": "Thoranadinni SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.thoranadinni",
+        "districtTenantCode": "pg.thoranadinnisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5006,9 +4973,9 @@
       "contactNumber": "8880381337"
     },
     {
-      "code": "pg.kurdi",
-      "name": "Kurdi",
-      "description": "Kurdi",
+      "code": "pg.kurdisc",
+      "name": "Kurdi SC",
+      "description": "Kurdi SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -5021,12 +4988,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Kurdi",
+        "name": "Kurdi SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.kurdi",
+        "districtTenantCode": "pg.kurdisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5210,9 +5177,9 @@
       "contactNumber": "9900269048"
     },
     {
-      "code": "pg.kurdi",
-      "name": "Kurdi",
-      "description": "Kurdi",
+      "code": "pg.kurdiphc",
+      "name": "Kurdi PHC",
+      "description": "Kurdi PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -5225,12 +5192,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Kurdi",
+        "name": "Kurdi PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.kurdi",
+        "districtTenantCode": "pg.kurdiphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5448,9 +5415,9 @@
       "contactNumber": "9591560232"
     },
     {
-      "code": "pg.byagawat",
-      "name": "Byagawat",
-      "description": "Byagawat",
+      "code": "pg.byagawatsc",
+      "name": "Byagawat SC",
+      "description": "Byagawat SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -5463,12 +5430,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Byagawat",
+        "name": "Byagawat SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.byagawat",
+        "districtTenantCode": "pg.byagawatsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5652,9 +5619,9 @@
       "contactNumber": "8861195786"
     },
     {
-      "code": "pg.pothnal",
-      "name": "Pothnal",
-      "description": "Pothnal",
+      "code": "pg.pothnalsc",
+      "name": "Pothnal SC",
+      "description": "Pothnal SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -5667,12 +5634,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Pothnal",
+        "name": "Pothnal SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.pothnal",
+        "districtTenantCode": "pg.pothnalsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6094,9 +6061,9 @@
       "contactNumber": "8861028981"
     },
     {
-      "code": "pg.chinchodi",
-      "name": "Chinchodi",
-      "description": "Chinchodi",
+      "code": "pg.chinchodisc",
+      "name": "Chinchodi SC",
+      "description": "Chinchodi SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -6109,12 +6076,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Chinchodi",
+        "name": "Chinchodi SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.devadurga",
-        "districtTenantCode": "pg.chinchodi",
+        "districtTenantCode": "pg.chinchodisc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6468,9 +6435,9 @@
       "contactNumber": "6366728215"
     },
     {
-      "code": "pg.chinchodi",
-      "name": "Chinchodi",
-      "description": "Chinchodi",
+      "code": "pg.chinchodiphc",
+      "name": "Chinchodi PHC",
+      "description": "Chinchodi PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -6483,12 +6450,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Chinchodi",
+        "name": "Chinchodi PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.devadurga",
-        "districtTenantCode": "pg.chinchodi",
+        "districtTenantCode": "pg.chinchodiphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6502,9 +6469,9 @@
       "contactNumber": "9844757970"
     },
     {
-      "code": "pg.gabbur",
-      "name": "Gabbur",
-      "description": "Gabbur",
+      "code": "pg.gabbursc",
+      "name": "Gabbur SC",
+      "description": "Gabbur SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -6517,12 +6484,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Gabbur",
+        "name": "Gabbur SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.devadurga",
-        "districtTenantCode": "pg.gabbur",
+        "districtTenantCode": "pg.gabbursc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6604,9 +6571,9 @@
       "contactNumber": "8431010137"
     },
     {
-      "code": "pg.masarkal",
-      "name": "Masarkal",
-      "description": "Masarkal",
+      "code": "pg.masarkalsc",
+      "name": "Masarkal SC",
+      "description": "Masarkal SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -6619,12 +6586,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Masarkal",
+        "name": "Masarkal SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.devadurga",
-        "districtTenantCode": "pg.masarkal",
+        "districtTenantCode": "pg.masarkalsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -7896,9 +7863,9 @@
       "contactNumber": "7483098915"
     },
     {
-      "code": "pg.nagarahal",
-      "name": "Nagarahal",
-      "description": "Nagarahal",
+      "code": "pg.nagarahalphc",
+      "name": "Nagarahal PHC",
+      "description": "Nagarahal PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -7911,12 +7878,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Nagarahal",
+        "name": "Nagarahal PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.sindhanur",
-        "districtTenantCode": "pg.nagarahal",
+        "districtTenantCode": "pg.nagarahalphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8032,9 +7999,9 @@
       "contactNumber": "9611224325"
     },
     {
-      "code": "pg.echanal",
-      "name": "Echanal",
-      "description": "Echanal",
+      "code": "pg.echanalsc",
+      "name": "Echanal SC",
+      "description": "Echanal SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -8047,12 +8014,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Echanal",
+        "name": "Echanal SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.sindhanur",
-        "districtTenantCode": "pg.echanal",
+        "districtTenantCode": "pg.echanalsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8066,9 +8033,9 @@
       "contactNumber": "9148256183"
     },
     {
-      "code": "pg.rodalabanda",
-      "name": "Rodalabanda",
-      "description": "Rodalabanda",
+      "code": "pg.rodalabandaphc",
+      "name": "Rodalabanda PHC",
+      "description": "Rodalabanda PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -8081,12 +8048,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Rodalabanda",
+        "name": "Rodalabanda PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.sindhanur",
-        "districtTenantCode": "pg.rodalabanda",
+        "districtTenantCode": "pg.rodalabandaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8236,9 +8203,9 @@
       "contactNumber": "7676210850"
     },
     {
-      "code": "pg.sajjalgudda",
-      "name": "Sajjalgudda",
-      "description": "Sajjalgudda",
+      "code": "pg.sajjalguddaphc",
+      "name": "Sajjalgudda PHC",
+      "description": "Sajjalgudda PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -8251,12 +8218,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Sajjalgudda",
+        "name": "Sajjalgudda PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.sindhanur",
-        "districtTenantCode": "pg.sajjalgudda",
+        "districtTenantCode": "pg.sajjalguddaphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8474,9 +8441,9 @@
       "contactNumber": "6360251130"
     },
     {
-      "code": "pg.nagarahal",
-      "name": "Nagarahal",
-      "description": "Nagarahal",
+      "code": "pg.nagarahalsc",
+      "name": "Nagarahal SC",
+      "description": "Nagarahal SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -8489,12 +8456,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Nagarahal",
+        "name": "Nagarahal SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.sindhanur",
-        "districtTenantCode": "pg.nagarahal",
+        "districtTenantCode": "pg.nagarahalsc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8611,9 +8578,9 @@
       "contactNumber": "6361310012"
     },
     {
-      "code": "pg.sajjalgudda",
-      "name": "Sajjalgudda",
-      "description": "Sajjalgudda",
+      "code": "pg.sajjalguddasc",
+      "name": "Sajjalgudda SC",
+      "description": "Sajjalgudda SC",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -8626,12 +8593,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Sajjalgudda",
+        "name": "Sajjalgudda SC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.sindhanur",
-        "districtTenantCode": "pg.sajjalgudda",
+        "districtTenantCode": "pg.sajjalguddasc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -8713,9 +8680,9 @@
       "contactNumber": "9731706432"
     },
     {
-      "code": "pg.echanal",
-      "name": "Echanal",
-      "description": "Echanal",
+      "code": "pg.echanalphc",
+      "name": "Echanal PHC",
+      "description": "Echanal PHC",
       "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -8728,12 +8695,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Echanal",
+        "name": "Echanal PHC",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.sindhanur",
-        "districtTenantCode": "pg.echanal",
+        "districtTenantCode": "pg.echanalphc",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
