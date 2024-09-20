@@ -8867,7 +8867,7 @@
       "city": {
         "name": "Annur PHC",
         "localName": null,
-        "districtCode": "Mysuru",
+        "districtCode": "MYSURU",
         "districtName": "Mysuru",
         "blockCode": "mysuru.hdkote",
         "districtTenantCode": "pg.annurphc",
