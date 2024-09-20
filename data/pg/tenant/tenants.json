@@ -8882,7 +8882,41 @@
       },
       "address": "Karnataka",
       "contactNumber": "9845085932"
-    }
+    },
+     {
+    "code": "pg.anwari",
+    "name": "Anwari",
+    "description": "Anwari",
+    "centreType": "SC",
+    "pincode": null,
+    "domainUrl": "https://e4h-dev.selcofoundation.org",
+    "type": "PHC",
+    "logoId": "https://selco-assets.s3.ap-south-1.amazonaws.com/logo.png",
+    "imageId": null,
+    "twitterUrl": null,
+    "facebookUrl": null,
+    "OfficeTimings": {
+      "Mon - Fri": "9.00 AM - 6.00 PM"
+    },
+    "city": {
+      "name": "Anwari",
+      "localName": null,
+      "districtCode": "RAICHUR",
+      "districtName": "Raichur",
+      "blockCode": "raichur.lingasugur",
+      "districtTenantCode": "pg.anwari",
+      "regionName": null,
+      "ulbGrade": null,
+      "longitude": null,
+      "latitude": null,
+      "shapeFileLocation": null,
+      "captcha": null,
+      "code": "KA-RCH-4714818244",
+      "ddrName": null
+    },
+    "address": "Karnataka",
+    "contactNumber": "9686751174"
+  }
   
 ]
 }
