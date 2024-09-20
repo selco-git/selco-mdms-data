@@ -1199,7 +1199,11 @@
         },
         {
             "code": "pg.sindhanurtalukahospital"
-        }
+        },
+        {
+          "code": "pg.annurphc"
+      }
+        
       ]
     },
     {
@@ -1706,6 +1710,12 @@
           "code": "pg.kallur"
         },
         {
+          "code": "pg.gunjahallisc"
+        },
+        {
+          "code": "pg.gunjahalliphc"
+        },
+        {
             "code": "pg.athukur"
         },
         {
@@ -2169,7 +2179,10 @@
         },
         {
             "code": "pg.sindhanurtalukahospital"
-        }
+        },
+        {
+          "code": "pg.annurphc"
+      }
       
       ]
     }

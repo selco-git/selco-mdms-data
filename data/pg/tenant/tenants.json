@@ -8848,6 +8848,40 @@
       },
       "address": "Karnataka",
       "contactNumber": "7760301476"
+    },
+    {
+      "code": "pg.annurphc",
+      "name": "Annur PHC",
+      "description": "Annur PHC",
+      "centreType": "PHC",
+      "pincode": null,
+      "domainUrl": "https://e4h-dev.selcofoundation.org",
+      "type": "PHC",
+      "logoId": "https://selco-assets.s3.ap-south-1.amazonaws.com/logo.png",
+      "imageId": null,
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Annur PHC",
+        "localName": null,
+        "districtCode": "Mysuru",
+        "districtName": "Mysuru",
+        "blockCode": "mysuru.hdkote",
+        "districtTenantCode": "pg.annurphc",
+        "regionName": null,
+        "ulbGrade": null,
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KA-RCH-6718375865",
+        "ddrName": null
+      },
+      "address": "Karnataka",
+      "contactNumber": "9845085932"
     }
   
 ]
