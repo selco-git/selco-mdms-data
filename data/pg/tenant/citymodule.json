@@ -3362,7 +3362,349 @@
       },
       {
           "code": "pg.yaragola"
-      }
+      },
+      {
+        "code": "pg.badamitalukhospital"
+    },
+    {
+        "code": "pg.bilagitalukhospital"
+    },
+    {
+        "code": "pg.hunagundtalukhospital"
+    },
+    {
+        "code": "pg.jamkhanditalukhospital"
+    },
+    {
+        "code": "pg.mudholtalukhospital"
+    },
+    {
+        "code": "pg.sandurtalukhospital"
+    },
+    {
+        "code": "pg.siragppatalukhospital"
+    },
+    {
+        "code": "pg.devanahallitalukhospital"
+    },
+    {
+        "code": "pg.hoskotetalukhospital"
+    },
+    {
+        "code": "pg.nelamangalatalukhospital"
+    },
+    {
+        "code": "pg.anekaltalukhospital"
+    },
+    {
+        "code": "pg.bangalorenorthtalukhospital"
+    },
+    {
+        "code": "pg.athanitalukhospital"
+    },
+    {
+        "code": "pg.bailhongaltalukhospital"
+    },
+    {
+        "code": "pg.chikoditalukhospital"
+    },
+    {
+        "code": "pg.gokaktalukhospital"
+    },
+    {
+        "code": "pg.hukkeritalukhospital"
+    },
+    {
+        "code": "pg.khanapurtalukhospital"
+    },
+    {
+        "code": "pg.raibagtalukhospital"
+    },
+    {
+        "code": "pg.ramdurgtalukhospital"
+    },
+    {
+        "code": "pg.saundattitalukhospital"
+    },
+    {
+        "code": "pg.auradtalukhospital"
+    },
+    {
+        "code": "pg.bhalkitalukhospital"
+    },
+    {
+        "code": "pg.kolegalatalukahospital"
+    },
+    {
+        "code": "pg.yelandurtalukahospital"
+    },
+    {
+        "code": "pg.bagepallitalukhospital"
+    },
+    {
+        "code": "pg.chintamanitalukhospital"
+    },
+    {
+        "code": "pg.gouribidanurtalukhospital"
+    },
+    {
+        "code": "pg.kadurtalukahospital"
+    },
+    {
+        "code": "pg.koppatalukahospital"
+    },
+    {
+        "code": "pg.mudigeretalukahospitalhospital"
+    },
+    {
+        "code": "pg.narasimharajapuratalukahospital"
+    },
+    {
+        "code": "pg.sringeritalukahospital"
+    },
+    {
+        "code": "pg.tarikeretalukahospital"
+    },
+    {
+        "code": "pg.challkeretalukhospital"
+    },
+    {
+        "code": "pg.hiriyurtalukhospital"
+    },
+    {
+        "code": "pg.holalkeretalukhospital"
+    },
+    {
+        "code": "pg.hosadurgatalukhospital"
+    },
+    {
+        "code": "pg.molakalmurutalukhospital"
+    },
+    {
+        "code": "pg.sulyatalukahospital"
+    },
+    {
+        "code": "pg.channagiritalukhospital"
+    },
+    {
+        "code": "pg.hariharatalukhospital"
+    },
+    {
+        "code": "pg.honnaltalukhospital"
+    },
+    {
+        "code": "pg.jaglurtalukhospital"
+    },
+    {
+        "code": "pg.kalghatagitalukhospital"
+    },
+    {
+        "code": "pg.navalgundtalukhospital"
+    },
+    {
+        "code": "pg.nargundtalukhospital"
+    },
+    {
+        "code": "pg.alurtalukahospital"
+    },
+    {
+        "code": "pg.arasikeretalukahospital"
+    },
+    {
+        "code": "pg.belurtalukahospital"
+    },
+    {
+        "code": "pg.channarayapatnatalukahospital"
+    },
+    {
+        "code": "pg.holenarasipurtalukahospital"
+    },
+    {
+        "code": "pg.sakaleshpurtalukahospital"
+    },
+    {
+        "code": "pg.byadgitalukhospital"
+    },
+    {
+        "code": "pg.hangaltalukhospital"
+    },
+    {
+        "code": "pg.hirekerurtalukhospital"
+    },
+    {
+        "code": "pg.savanurtalukhospital"
+    },
+    {
+        "code": "pg.shiggaontalukhospital"
+    },
+    {
+        "code": "pg.alandtalukhospital"
+    },
+    {
+        "code": "pg.chitapurtalukhospital"
+    },
+    {
+        "code": "pg.jewargitalukhospital"
+    },
+    {
+        "code": "pg.somvarpettalukahospital"
+    },
+    {
+        "code": "pg.virajpettalukahospital"
+    },
+    {
+        "code": "pg.kgfwomenandchildrentaluklevelhospital"
+    },
+    {
+        "code": "pg.bangarpettalukhospital"
+    },
+    {
+        "code": "pg.malurtalukhospital"
+    },
+    {
+        "code": "pg.mulbagaltalukhospital"
+    },
+    {
+        "code": "pg.srinivasapuratalukhospital"
+    },
+    {
+        "code": "pg.gangawathitalukahospital"
+    },
+    {
+        "code": "pg.kushtagitalukahospital"
+    },
+    {
+        "code": "pg.yelburgatalukahospital"
+    },
+    {
+        "code": "pg.krishnarajpettalukhospital"
+    },
+    {
+        "code": "pg.maddurtalukhospital"
+    },
+    {
+        "code": "pg.malavallitalukhospital"
+    },
+    {
+        "code": "pg.nagamangalatalukhospital"
+    },
+    {
+        "code": "pg.pandavapuratalukhospital"
+    },
+    {
+        "code": "pg.srirangapatnatalukhospital"
+    },
+    {
+        "code": "pg.heggadadevankotetalukahospital"
+    },
+    {
+        "code": "pg.hunsurtalukhospital"
+    },
+    {
+        "code": "pg.krishnarajanagaratalukahospital"
+    },
+    {
+        "code": "pg.nanjangudtalukhospital"
+    },
+    {
+        "code": "pg.periyapatnatalukhospital"
+    },
+    {
+        "code": "pg.tnarasipurtalukahospital"
+    },
+    {
+        "code": "pg.channapatnatalukhospital"
+    },
+    {
+        "code": "pg.kanakapuratalukhospital"
+    },
+    {
+        "code": "pg.magaditalukhospital"
+    },
+    {
+        "code": "pg.bhadravathitalukhospital"
+    },
+    {
+        "code": "pg.hosanagartalukhospital"
+    },
+    {
+        "code": "pg.shikaripuratalukhospital"
+    },
+    {
+        "code": "pg.thirthahallitalukhospital"
+    },
+    {
+        "code": "pg.chikkaayakanhallitalukhospital"
+    },
+    {
+        "code": "pg.gubbitalukhospital"
+    },
+    {
+        "code": "pg.koratageretalukhospital"
+    },
+    {
+        "code": "pg.madhugiritalukhospital"
+    },
+    {
+        "code": "pg.pavagadatalukhospital"
+    },
+    {
+        "code": "pg.siratalukhospital"
+    },
+    {
+        "code": "pg.tipturtalukhospital"
+    },
+    {
+        "code": "pg.turuvekeretalukhospital"
+    },
+    {
+        "code": "pg.karkalatalukhospital"
+    },
+    {
+        "code": "pg.kundapuratalukhospital"
+    },
+    {
+        "code": "pg.bhatkaltalukhospital"
+    },
+    {
+        "code": "pg.haliyalatalukhospital"
+    },
+    {
+        "code": "pg.honnavaratalukhospital"
+    },
+    {
+        "code": "pg.kumtatalukhospital"
+    },
+    {
+        "code": "pg.siddapuratalukhospital"
+    },
+    {
+        "code": "pg.sirsitalukhospital"
+    },
+    {
+        "code": "pg.joidatalukhospital"
+    },
+    {
+        "code": "pg.adagalitalukhospital"
+    },
+    {
+        "code": "pg.hagribommanahallitalukhospital"
+    },
+    {
+        "code": "pg.hospettalukhospital"
+    },
+    {
+        "code": "pg.kudilgitalukhospital"
+    },
+    {
+        "code": "pg.harpanahallitalukhospital"
+    },
+    {
+        "code": "pg.shahpurtalukahospital"
+    },
+    {
+        "code": "pg.surapurtalukshospitals"
+    }
         
       ]
     },
