@@ -8953,9 +8953,9 @@
         "contactNumber": "9945454440"
     },
     {
-        "code": "pg.shirur",
-        "name": "Shirur",
-        "description": "Shirur",
+        "code": "pg.shirurbagalkot",
+        "name": "Shirur Bagalkot",
+        "description": "Shirur Bagalkot",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -8968,12 +8968,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Shirur",
+            "name": "Shirur Bagalkot",
             "localName": null,
             "districtCode": "BAGALKOTE",
             "districtName": "Bagalkote",
             "blockCode": "bagalkote.bagalkot",
-            "districtTenantCode": "pg.shirur",
+            "districtTenantCode": "pg.shirurbagalkot",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -9497,9 +9497,9 @@
         "contactNumber": "8884656980"
     },
     {
-        "code": "pg.kundaragi",
-        "name": "Kundaragi",
-        "description": "Kundaragi",
+        "code": "pg.kundaragibilagi",
+        "name": "Kundaragi Bilagi",
+        "description": "Kundaragi Bilagi",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -9517,7 +9517,7 @@
             "districtCode": "BAGALKOTE",
             "districtName": "Bagalkote",
             "blockCode": "bagalkote.bilagi",
-            "districtTenantCode": "pg.kundaragi",
+            "districtTenantCode": "pg.kundaragibilagi",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -9633,9 +9633,9 @@
         "contactNumber": "9148680538"
     },
     {
-        "code": "pg.shirol",
-        "name": "Shirol",
-        "description": "Shirol",
+        "code": "pg.shirolmudhol",
+        "name": "Shirol Mudhol",
+        "description": "Shirol Mudhol",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -9648,12 +9648,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Shirol",
+            "name": "Shirol Mudhol",
             "localName": null,
             "districtCode": "BAGALKOTE",
             "districtName": "Bagalkote",
             "blockCode": "bagalkote.mudhol",
-            "districtTenantCode": "pg.shirol",
+            "districtTenantCode": "pg.shirolmudhol",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -9939,9 +9939,9 @@
         "contactNumber": "9141601993"
     },
     {
-        "code": "pg.konnur",
-        "name": "Konnur",
-        "description": "Konnur",
+        "code": "pg.konnurjamkhandi",
+        "name": "Konnur Jamkhandi",
+        "description": "Konnur Jamkhandi",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -9954,12 +9954,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Konnur",
+            "name": "Konnur Jamkhandi",
             "localName": null,
             "districtCode": "BAGALKOTE",
             "districtName": "Bagalkote",
             "blockCode": "bagalkote.jamkhandi",
-            "districtTenantCode": "pg.konnur",
+            "districtTenantCode": "pg.konnurjamkhandi",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -10143,9 +10143,9 @@
         "contactNumber": "9448588996"
     },
     {
-        "code": "pg.bennur",
-        "name": "Bennur",
-        "description": "Bennur",
+        "code": "pg.bennurbagalkot",
+        "name": "Bennur Bagalkot",
+        "description": "Bennur Bagalkot",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -10158,12 +10158,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Bennur",
+            "name": "Bennur Bagalkot",
             "localName": null,
             "districtCode": "BAGALKOTE",
             "districtName": "Bagalkote",
             "blockCode": "bagalkote.bagalkot",
-            "districtTenantCode": "pg.bennur",
+            "districtTenantCode": "pg.bennurbagalkot",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -13747,9 +13747,9 @@
         "contactNumber": "7406897917"
     },
     {
-        "code": "pg.jainapur",
-        "name": "Jainapur",
-        "description": "Jainapur",
+        "code": "pg.jainapurchikodi",
+        "name": "Jainapur Chikodi",
+        "description": "Jainapur Chikodi",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -13762,7 +13762,7 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Jainapur",
+            "name": "Jainapur Chikodi",
             "localName": null,
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
@@ -14597,9 +14597,9 @@
         "contactNumber": "8892712808"
     },
     {
-        "code": "pg.morab",
-        "name": "Morab",
-        "description": "Morab",
+        "code": "pg.morabraibag",
+        "name": "Morab Raibag",
+        "description": "Morab Raibag",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -14612,12 +14612,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Morab",
+            "name": "Morab Raibag",
             "localName": null,
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.raibag",
-            "districtTenantCode": "pg.morab",
+            "districtTenantCode": "pg.morabraibag",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -14699,9 +14699,9 @@
         "contactNumber": "9986749678"
     },
     {
-        "code": "pg.ainapur",
-        "name": "Ainapur",
-        "description": "Ainapur",
+        "code": "pg.ainapurathani",
+        "name": "Ainapur Athani",
+        "description": "Ainapur Athani",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -14714,12 +14714,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Ainapur",
+            "name": "Ainapur Athani",
             "localName": null,
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.athani",
-            "districtTenantCode": "pg.ainapur",
+            "districtTenantCode": "pg.ainapurathani",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -18949,9 +18949,9 @@
         "contactNumber": "7349510698"
     },
     {
-        "code": "pg.morab",
-        "name": "Morab",
-        "description": "Morab",
+        "code": "pg.morabdharwad",
+        "name": "Morab Dharwad",
+        "description": "Morab Dharwad",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -18964,12 +18964,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Morab",
+            "name": "Morab Dharwad",
             "localName": null,
             "districtCode": "DHARWAD",
             "districtName": "Dharwad",
             "blockCode": "dharwad.dharwad",
-            "districtTenantCode": "pg.morab",
+            "districtTenantCode": "pg.morabdharwad",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -20003,9 +20003,9 @@
         "contactNumber": "9480323698"
     },
     {
-        "code": "pg.shirol",
-        "name": "Shirol",
-        "description": "Shirol",
+        "code": "pg.shirolnaragund",
+        "name": "Shirol Naragund",
+        "description": "Shirol Naragund",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -20018,12 +20018,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Shirol",
+            "name": "Shirol Naragund",
             "localName": null,
             "districtCode": "GADAG",
             "districtName": "Gadag",
             "blockCode": "gadag.naragund",
-            "districtTenantCode": "pg.shirol",
+            "districtTenantCode": "pg.shirolnaragund",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -21669,9 +21669,9 @@
         "contactNumber": "8073785681"
     },
     {
-        "code": "pg.itagi",
-        "name": "Itagi",
-        "description": "Itagi",
+        "code": "pg.itagiranebennur",
+        "name": "Itagi Ranebennur",
+        "description": "Itagi Ranebennur",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -21684,12 +21684,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Itagi",
+            "name": "Itagi Ranebennur",
             "localName": null,
             "districtCode": "HAVERI",
             "districtName": "Haveri",
             "blockCode": "haveri.ranebennur",
-            "districtTenantCode": "pg.itagi",
+            "districtTenantCode": "pg.itagiranebennur",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -23641,9 +23641,9 @@
         "contactNumber": "9886053999"
     },
     {
-        "code": "pg.ainapur",
-        "name": "Ainapur",
-        "description": "Ainapur",
+        "code": "pg.ainapurchincholi",
+        "name": "Ainapur Chincholi",
+        "description": "Ainapur Chincholi",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -23656,12 +23656,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Ainapur",
+            "name": "Ainapur Chincholi",
             "localName": null,
             "districtCode": "KALABURAGI",
             "districtName": "Kalaburagi",
             "blockCode": "kalaburagi.chincholi",
-            "districtTenantCode": "pg.ainapur",
+            "districtTenantCode": "pg.ainapurchincholi",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -25511,9 +25511,9 @@
         "contactNumber": "9591547488"
     },
     {
-        "code": "pg.itagi",
-        "name": "Itagi",
-        "description": "Itagi",
+        "code": "pg.itagikukanur",
+        "name": "Itagi Kukanur",
+        "description": "Itagi Kukanur",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -25526,12 +25526,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Itagi",
+            "name": "Itagi Kukanur",
             "localName": null,
             "districtCode": "KOPPAL",
             "districtName": "Koppal",
             "blockCode": "koppal.kukanur",
-            "districtTenantCode": "pg.itagi",
+            "districtTenantCode": "pg.itagikukanur",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -25817,9 +25817,9 @@
         "contactNumber": "9591547488"
     },
     {
-        "code": "pg.shirur",
-        "name": "Shirur",
-        "description": "Shirur",
+        "code": "pg.shirurkukanur",
+        "name": "Shirur Kukanur",
+        "description": "Shirur Kukanur",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -25832,12 +25832,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Shirur",
+            "name": "Shirur Kukanur",
             "localName": null,
             "districtCode": "KOPPAL",
             "districtName": "Koppal",
             "blockCode": "koppal.kukanur",
-            "districtTenantCode": "pg.shirur",
+            "districtTenantCode": "pg.shirurkukanur",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -26293,9 +26293,9 @@
         "contactNumber": "9845299495"
     },
     {
-        "code": "pg.bennur",
-        "name": "Bennur",
-        "description": "Bennur",
+        "code": "pg.bennurkaratagi",
+        "name": "Bennur Karatagi",
+        "description": "Bennur Karatagi",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -26308,12 +26308,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Bennur",
+            "name": "Bennur Karatagi",
             "localName": null,
             "districtCode": "KOPPAL",
             "districtName": "Koppal",
             "blockCode": "koppal.karatagi",
-            "districtTenantCode": "pg.bennur",
+            "districtTenantCode": "pg.bennurkaratagi",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -28435,9 +28435,9 @@
         "contactNumber": "8088641057"
     },
     {
-        "code": "pg.kundaragi",
-        "name": "Kundaragi",
-        "description": "Kundaragi",
+        "code": "pg.kundaragiyallapur",
+        "name": "Kundaragi Yallapur",
+        "description": "Kundaragi Yallapur",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -28450,12 +28450,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Kundaragi",
+            "name": "Kundaragi Yallapur",
             "localName": null,
             "districtCode": "UTTARA KANNADA",
             "districtName": "Uttara Kannada",
             "blockCode": "uttara kannada.yallapur",
-            "districtTenantCode": "pg.kundaragi",
+            "districtTenantCode": "pg.kundaragiyallapur",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -31155,9 +31155,9 @@
         "contactNumber": "9901768628"
     },
     {
-        "code": "pg.konnur",
-        "name": "Konnur",
-        "description": "Konnur",
+        "code": "pg.konnurmuddebihal",
+        "name": "Konnur Muddebihal",
+        "description": "Konnur Muddebihal",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -31170,12 +31170,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Konnur",
+            "name": "Konnur Muddebihal",
             "localName": null,
             "districtCode": "VIJAYAPURA",
             "districtName": "Vijayapura",
             "blockCode": "vijayapura.muddebihal",
-            "districtTenantCode": "pg.konnur",
+            "districtTenantCode": "pg.konnurmuddebihal",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -31529,9 +31529,9 @@
         "contactNumber": "9686817978"
     },
     {
-        "code": "pg.jainapur",
-        "name": "Jainapur",
-        "description": "Jainapur",
+        "code": "pg.jainapurvijayapura",
+        "name": "Jainapur Vijayapura",
+        "description": "Jainapur vijayapura",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -31544,12 +31544,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Jainapur",
+            "name": "Jainapur Vijayapura",
             "localName": null,
             "districtCode": "VIJAYAPURA",
             "districtName": "Vijayapura",
             "blockCode": "vijayapura.vijayapura",
-            "districtTenantCode": "pg.jainapur",
+            "districtTenantCode": "pg.jainapurvijayapura",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
