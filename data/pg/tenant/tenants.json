@@ -18643,9 +18643,9 @@
         "contactNumber": "9019098245"
     },
     {
-        "code": "pg.  anand nagar",
-        "name": "  Anand Nagar",
-        "description": "  Anand Nagar",
+        "code": "pg.anandnagar",
+        "name": "Anand Nagar",
+        "description": "Anand Nagar",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -18658,12 +18658,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Anand Nagar",
+            "name": "Anand Nagar",
             "localName": null,
             "districtCode": "DHARWAD",
             "districtName": "Dharwad",
             "blockCode": "dharwad.hubli",
-            "districtTenantCode": "pg.  anand nagar",
+            "districtTenantCode": "pg.anandnagar",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -18677,9 +18677,9 @@
         "contactNumber": "9986052206"
     },
     {
-        "code": "pg.  ayodhya nagar",
-        "name": "  Ayodhya Nagar",
-        "description": "  Ayodhya Nagar",
+        "code": "pg.ayodhyanagar",
+        "name": "Ayodhya Nagar",
+        "description": "Ayodhya Nagar",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -18692,12 +18692,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Ayodhya Nagar",
+            "name": "Ayodhya Nagar",
             "localName": null,
             "districtCode": "DHARWAD",
             "districtName": "Dharwad",
             "blockCode": "dharwad.hubli",
-            "districtTenantCode": "pg.  ayodhya nagar",
+            "districtTenantCode": "pg.ayodhyanagar",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -18711,9 +18711,9 @@
         "contactNumber": "9986025486"
     },
     {
-        "code": "pg.  heggeri",
-        "name": "  Heggeri",
-        "description": "  Heggeri",
+        "code": "pg.heggeri",
+        "name": "Heggeri",
+        "description": "Heggeri",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -18726,12 +18726,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Heggeri",
+            "name": "Heggeri",
             "localName": null,
             "districtCode": "DHARWAD",
             "districtName": "Dharwad",
             "blockCode": "dharwad.hubli",
-            "districtTenantCode": "pg.  heggeri",
+            "districtTenantCode": "pg.heggeri",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -18779,9 +18779,9 @@
         "contactNumber": "9448418508"
     },
     {
-        "code": "pg.  bharalotri",
-        "name": "  Bharalotri",
-        "description": "  Bharalotri",
+        "code": "pg.bharalotri",
+        "name": "Bharalotri",
+        "description": "Bharalotri",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -18794,12 +18794,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Bharalotri",
+            "name": "Bharalotri",
             "localName": null,
             "districtCode": "DHARWAD",
             "districtName": "Dharwad",
             "blockCode": "dharwad.dharwad",
-            "districtTenantCode": "pg.  bharalotri",
+            "districtTenantCode": "pg.bharalotri",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -18813,9 +18813,9 @@
         "contactNumber": "9738018145"
     },
     {
-        "code": "pg.  hdmcmaternityhospital",
-        "name": "  Hdmc Maternity Hospital",
-        "description": "  Hdmc Maternity Hospital",
+        "code": "pg.hdmcmaternityhospital",
+        "name": "Hdmc Maternity Hospital",
+        "description": "Hdmc Maternity Hospital",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -18828,12 +18828,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  HdmcMaternityHospital",
+            "name": "HdmcMaternityHospital",
             "localName": null,
             "districtCode": "DHARWAD",
             "districtName": "Dharwad",
             "blockCode": "dharwad.dharwad",
-            "districtTenantCode": "pg.  hdmcmaternityhospital",
+            "districtTenantCode": "pg.hdmcmaternityhospital",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -19391,9 +19391,9 @@
         "contactNumber": "8904885366"
     },
     {
-        "code": "pg.  purohitnagar",
-        "name": "  Purohit Nagar",
-        "description": "  Purohit Nagar",
+        "code": "pg.purohitnagar",
+        "name": "Purohit Nagar",
+        "description": "Purohit Nagar",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -19406,12 +19406,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  PurohitNagar",
+            "name": "PurohitNagar",
             "localName": null,
             "districtCode": "DHARWAD",
             "districtName": "Dharwad",
             "blockCode": "dharwad.dharwad",
-            "districtTenantCode": "pg.  purohitnagar",
+            "districtTenantCode": "pg.purohitnagar",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -19425,9 +19425,9 @@
         "contactNumber": "8277171246"
     },
     {
-        "code": "pg.  ramalingeshwarnagar",
-        "name": "  Ramalingeshwar Nagar",
-        "description": "  Ramalingeshwar Nagar",
+        "code": "pg.ramalingeshwarnagar",
+        "name": "Ramalingeshwar Nagar",
+        "description": "Ramalingeshwar Nagar",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -19440,12 +19440,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  RamalingeshwarNagar",
+            "name": "RamalingeshwarNagar",
             "localName": null,
             "districtCode": "DHARWAD",
             "districtName": "Dharwad",
             "blockCode": "dharwad.hubli",
-            "districtTenantCode": "pg.  ramalingeshwarnagar",
+            "districtTenantCode": "pg.ramalingeshwarnagar",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -27313,9 +27313,9 @@
         "contactNumber": "9449690527"
     },
     {
-        "code": "pg.  karwar",
-        "name": "  Karwar",
-        "description": "  Karwar",
+        "code": "pg.karwar",
+        "name": "Karwar",
+        "description": "Karwar",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -27328,12 +27328,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Karwar",
+            "name": "Karwar",
             "localName": null,
             "districtCode": "UTTARAKANNADA",
             "districtName": "Uttara Kannada",
             "blockCode": "uttarakannada.karwar",
-            "districtTenantCode": "pg.  karwar",
+            "districtTenantCode": "pg.karwar",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -28367,9 +28367,9 @@
         "contactNumber": "9986309779"
     },
     {
-        "code": "pg.  dandeli",
-        "name": "  Dandeli",
-        "description": "  Dandeli",
+        "code": "pg.dandeli",
+        "name": "Dandeli",
+        "description": "Dandeli",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -28382,12 +28382,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Dandeli",
+            "name": "Dandeli",
             "localName": null,
             "districtCode": "UTTARAKANNADA",
             "districtName": "Uttara Kannada",
             "blockCode": "uttarakannada.dandeli",
-            "districtTenantCode": "pg.  dandeli",
+            "districtTenantCode": "pg.dandeli",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -28639,9 +28639,9 @@
         "contactNumber": "8095431191"
     },
     {
-        "code": "pg.  teragaon",
-        "name": "  Teragaon",
-        "description": "  Teragaon",
+        "code": "pg.teragaon",
+        "name": "Teragaon",
+        "description": "Teragaon",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -28654,12 +28654,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Teragaon",
+            "name": "Teragaon",
             "localName": null,
             "districtCode": "UTTARAKANNADA",
             "districtName": "Uttara Kannada",
             "blockCode": "uttarakannada.halyal",
-            "districtTenantCode": "pg.  teragaon",
+            "districtTenantCode": "pg.teragaon",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -30611,9 +30611,9 @@
         "contactNumber": "9844324489"
     },
     {
-        "code": "pg.  darga",
-        "name": "  Darga",
-        "description": "  Darga",
+        "code": "pg.darga",
+        "name": "Darga",
+        "description": "Darga",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -30626,12 +30626,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Darga",
+            "name": "Darga",
             "localName": null,
             "districtCode": "VIJAYAPURA",
             "districtName": "Vijayapura",
             "blockCode": "vijayapura.vijayapura",
-            "districtTenantCode": "pg.  darga",
+            "districtTenantCode": "pg.darga",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -30645,9 +30645,9 @@
         "contactNumber": "9480312394"
     },
     {
-        "code": "pg.  shantinagar",
-        "name": "  Shantinagar",
-        "description": "  Shantinagar",
+        "code": "pg.shantinagar",
+        "name": "Shantinagar",
+        "description": "Shantinagar",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -30660,12 +30660,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Shantinagar",
+            "name": "Shantinagar",
             "localName": null,
             "districtCode": "VIJAYAPURA",
             "districtName": "Vijayapura",
             "blockCode": "vijayapura.vijayapura",
-            "districtTenantCode": "pg.  shantinagar",
+            "districtTenantCode": "pg.shantinagar",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -31665,9 +31665,9 @@
         "contactNumber": "8296209728"
     },
     {
-        "code": "pg.  yogapur",
-        "name": "  Yogapur",
-        "description": "  Yogapur",
+        "code": "pg.yogapur",
+        "name": "Yogapur",
+        "description": "Yogapur",
         "centreType": "UHC",
         "pincode": null,
         "imageId": null,
@@ -31680,12 +31680,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "  Yogapur",
+            "name": "Yogapur",
             "localName": null,
             "districtCode": "VIJAYAPURA",
             "districtName": "Vijayapura",
             "blockCode": "vijayapura.vijayapura",
-            "districtTenantCode": "pg.  yogapur",
+            "districtTenantCode": "pg.yogapur",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
