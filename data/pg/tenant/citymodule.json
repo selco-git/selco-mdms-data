@@ -492,9 +492,7 @@
         {
           "code": "pg.mustur"
         },
-        {
-          "code": "pg.masarkal"
-        },
+        
         {
           "code": "pg.kopparsc"
         },
@@ -525,9 +523,7 @@
         {
           "code": "pg.ramdurga"
         },
-        {
-          "code": "pg.gabbursc"
-        },
+        
         {
           "code": "pg.nagadadinni"
         },
@@ -706,7 +702,7 @@
           "code": "pg.neermanvi"
         },
         {
-          "code": "pg.pamankallur"
+          "code": "pg.pamankallursc"
         },
         {
           "code": "pg.sirwar"
@@ -714,9 +710,7 @@
         {
           "code": "pg.ballatagi"
         },
-        {
-          "code": "pg.byagawatsc"
-        },
+        
         {
           "code": "pg.hirekotnekal"
         },
@@ -757,7 +751,7 @@
             "code": "pg.hanumapur"
         },
         {
-            "code": "pg.hosur"
+            "code": "pg.hosursc"
         },
         {
             "code": "pg.idapanursc"
@@ -900,9 +894,7 @@
         {
             "code": "pg.hirehangi"
         },
-        {
-            "code": "pg.byagawat"
-        },
+        
         {
             "code": "pg.balllatagi"
         },
@@ -934,7 +926,7 @@
             "code": "pg.sangapur"
         },
         {
-            "code": "pg.tadkal"
+            "code": "pg.tadkalphc"
         },
         {
             "code": "pg.ramdurga24x7"
@@ -994,7 +986,7 @@
             "code": "pg.wandli"
         },
         {
-            "code": "pg.gabbur"
+            "code": "pg.gabburphc"
         },
         {
             "code": "pg.ganadala"
@@ -1414,7 +1406,7 @@
           "code": "pg.chachadi"
       },
       {
-          "code": "pg.hosur"
+          "code": "pg.hosurphc"
       },
       {
           "code": "pg.sangoli"
@@ -2652,9 +2644,7 @@
       {
           "code": "pg.vksalagar"
       },
-      {
-          "code": "pg.tadkal"
-      },
+      
       {
           "code": "pg.belamagi"
       },
@@ -2749,7 +2739,7 @@
           "code": "pg.navali"
       },
       {
-          "code": "pg.mustur"
+          "code": "pg.mustursc"
       },
       {
           "code": "pg.balotagi"
@@ -3972,11 +3962,9 @@
           "code": "pg.ganadhal"
         },
         {
-          "code": "pg.mustur"
+          "code": "pg.musturphc"
         },
-        {
-          "code": "pg.masarkal"
-        },
+        
         {
           "code": "pg.kopparsc"
         },
@@ -4187,9 +4175,7 @@
         {
           "code": "pg.neermanvi"
         },
-        {
-          "code": "pg.pamankallur"
-        },
+        
         {
           "code": "pg.sirwar"
         },
@@ -4211,12 +4197,7 @@
         {
           "code": "pg.kallur"
         },
-        {
-          "code": "pg.gunjahallisc"
-        },
-        {
-          "code": "pg.gunjahalliphc"
-        },
+        
         {
             "code": "pg.athukur"
         },
@@ -4238,15 +4219,8 @@
         {
             "code": "pg.hanumapur"
         },
-        {
-            "code": "pg.hosur"
-        },
-        {
-            "code": "pg.idapanurphc"
-        },
-        {
-          "code": "pg.idapanursc"
-        },
+        
+        
         {
             "code": "pg.jagarkal"
         },
@@ -4280,12 +4254,7 @@
         {
             "code": "pg.yedlapur"
         },
-        {
-            "code": "pg.yapaldinniphc"
-        },
-        {
-          "code": "pg.yapaldinnisc"
-        },
+        
         {
             "code": "pg.talameri"
         },
@@ -4383,7 +4352,7 @@
             "code": "pg.hirehangi"
         },
         {
-            "code": "pg.byagawat"
+            "code": "pg.byagawatphc"
         },
         {
             "code": "pg.balllatagi"
@@ -4397,9 +4366,7 @@
         {
             "code": "pg.mallat"
         },
-        {
-            "code": "pg.pamankallurphc"
-        },
+        
         {
             "code": "pg.pothnal"
         },
@@ -4416,7 +4383,7 @@
             "code": "pg.sangapur"
         },
         {
-            "code": "pg.tadkal"
+            "code": "pg.tadkalsc"
         },
         {
             "code": "pg.ramdurga24x7"
@@ -4475,9 +4442,7 @@
         {
             "code": "pg.wandli"
         },
-        {
-            "code": "pg.gabbur"
-        },
+        
         {
             "code": "pg.ganadala"
         },
@@ -4485,7 +4450,7 @@
             "code": "pg.hbudoor"
         },
         {
-            "code": "pg.masarkalsc"
+            "code": "pg.masarkalphc"
         },
         {
             "code": "pg.koppar"
