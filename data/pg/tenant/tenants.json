@@ -12285,7 +12285,7 @@
         "contactNumber": "9036656368"
     },
     {
-        "code": "pg.chougalewadi/tilakwadi",
+        "code": "pg.chougalewaditilakwadi",
         "name": "Chougalewadi/Tilakwadi",
         "description": "Chougalewadi/Tilakwadi",
         "centreType": "PHC",
@@ -12305,7 +12305,7 @@
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.belagavi",
-            "districtTenantCode": "pg.chougalewadi/tilakwadi",
+            "districtTenantCode": "pg.chougalewaditilakwadi",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
