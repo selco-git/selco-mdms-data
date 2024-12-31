@@ -11571,9 +11571,9 @@
         "contactNumber": "8123826846"
     },
     {
-        "code": "pg.bailur1",
-        "name": "Bailur 1",
-        "description": "Bailur 1",
+        "code": "pg.bailurone",
+        "name": "Bailur One",
+        "description": "Bailur One",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -11586,12 +11586,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Bailur1",
+            "name": "Bailur One",
             "localName": null,
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.bailhongal",
-            "districtTenantCode": "pg.bailur1",
+            "districtTenantCode": "pg.bailur1one",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -11707,9 +11707,9 @@
         "contactNumber": "8951894189"
     },
     {
-        "code": "pg.yakkundi1",
-        "name": "Yakkundi 1",
-        "description": "Yakkundi 1",
+        "code": "pg.yakkundione",
+        "name": "Yakkundi One",
+        "description": "Yakkundi One",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -11722,12 +11722,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Yakkundi1",
+            "name": "Yakkundi One",
             "localName": null,
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.savadatti",
-            "districtTenantCode": "pg.yakkundi1",
+            "districtTenantCode": "pg.yakkundione",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -13203,9 +13203,9 @@
         "contactNumber": "9449650534"
     },
     {
-        "code": "pg.betageri 1",
-        "name": "Betageri 1",
-        "description": "Betageri 1",
+        "code": "pg.betagerione",
+        "name": "Betageri One",
+        "description": "Betageri One",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -13218,12 +13218,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Betageri 1",
+            "name": "Betageri One",
             "localName": null,
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.gokak",
-            "districtTenantCode": "pg.betageri 1",
+            "districtTenantCode": "pg.betagerione",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -14053,9 +14053,9 @@
         "contactNumber": "9036666011"
     },
     {
-        "code": "pg.hebbal1",
-        "name": "Hebbal 1",
-        "description": "Hebbal 1",
+        "code": "pg.hebbalone",
+        "name": "Hebbal One",
+        "description": "Hebbal One",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -14068,12 +14068,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Hebbal1",
+            "name": "Hebbal" One,
             "localName": null,
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.hukkeri",
-            "districtTenantCode": "pg.hebbal1",
+            "districtTenantCode": "pg.hebbalone",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
@@ -14461,9 +14461,9 @@
         "contactNumber": "8970465860"
     },
     {
-        "code": "pg.chinchali 1",
-        "name": "Chinchali 1",
-        "description": "Chinchali 1",
+        "code": "pg.chinchalione",
+        "name": "Chinchali One",
+        "description": "Chinchali One",
         "centreType": "PHC",
         "pincode": null,
         "imageId": null,
@@ -14476,12 +14476,12 @@
             "Mon - Fri": "9.00 AM - 6.00 PM"
         },
         "city": {
-            "name": "Chinchali 1",
+            "name": "Chinchali One",
             "localName": null,
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.raibag",
-            "districtTenantCode": "pg.chinchali 1",
+            "districtTenantCode": "pg.chinchalione",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
