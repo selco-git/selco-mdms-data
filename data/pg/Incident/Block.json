@@ -40,24 +40,14 @@
       "active": true
     },
     
-      {
-          "code": "bagalkote.badami",
-          "name": "Badami",
-          "districtCode": "BAGALKOTE",
-          "active": true
-      },
+      
       {
           "code": "bagalkote.bilagi",
           "name": "Bilagi",
           "districtCode": "BAGALKOTE",
           "active": true
       },
-      {
-          "code": "bagalkote.hunagund",
-          "name": "Hunagund",
-          "districtCode": "BAGALKOTE",
-          "active": true
-      },
+      
       {
           "code": "bagalkote.jamakhandi",
           "name": "Jamakhandi",
@@ -112,12 +102,7 @@
           "districtCode": "BANGALOREURBAN",
           "active": true
       },
-      {
-          "code": "belagavi.athani",
-          "name": "Athani",
-          "districtCode": "BELAGAVI",
-          "active": true
-      },
+      
       {
           "code": "belagavi.bailahongala",
           "name": "Bailahongala",
@@ -136,30 +121,15 @@
           "districtCode": "BELAGAVI",
           "active": true
       },
-      {
-          "code": "belagavi.hukkeri",
-          "name": "Hukkeri",
-          "districtCode": "BELAGAVI",
-          "active": true
-      },
+      
       {
           "code": "belagavi.kanapur",
           "name": "Kanapur",
           "districtCode": "BELAGAVI",
           "active": true
       },
-      {
-          "code": "belagavi.raibag",
-          "name": "Raibag",
-          "districtCode": "BELAGAVI",
-          "active": true
-      },
-      {
-          "code": "belagavi.ramadurga",
-          "name": "Ramadurga",
-          "districtCode": "BELAGAVI",
-          "active": true
-      },
+      
+      
       {
           "code": "belagavi.soundatti",
           "name": "Soundatti",
@@ -250,24 +220,14 @@
           "districtCode": "CHITRADURGA",
           "active": true
       },
-      {
-          "code": "chitradurga.hiriyur",
-          "name": "Hiriyur",
-          "districtCode": "CHITRADURGA",
-          "active": true
-      },
+      
       {
           "code": "chitradurga.hollelkere",
           "name": "Hollelkere",
           "districtCode": "CHITRADURGA",
           "active": true
       },
-      {
-          "code": "chitradurga.hosadurga",
-          "name": "Hosadurga",
-          "districtCode": "CHITRADURGA",
-          "active": true
-      },
+      
       {
           "code": "chitradurga.molakalumur",
           "name": "Molakalumur",
@@ -310,18 +270,8 @@
           "districtCode": "DHARWAD",
           "active": true
       },
-      {
-          "code": "dharwad.navalgund",
-          "name": "Navalgund",
-          "districtCode": "DHARWAD",
-          "active": true
-      },
-      {
-          "code": "gadag.naragund",
-          "name": "Naragund",
-          "districtCode": "GADAG",
-          "active": true
-      },
+      
+      
       {
           "code": "hassan.alur",
           "name": "Alur",
@@ -785,12 +735,7 @@
             "districtCode": "BALLARI",
             "active": true
         },
-        {
-            "code": "ballari.sandur",
-            "name": "Sandur",
-            "districtCode": "BALLARI",
-            "active": true
-        },
+        
         {
             "code": "belagavi.savadatti",
             "name": "Savadatti",
@@ -833,12 +778,7 @@
             "districtCode": "BELAGAVI",
             "active": true
         },
-        {
-            "code": "belagavi.gokak",
-            "name": "Gokak",
-            "districtCode": "BELAGAVI",
-            "active": true
-        },
+        
         {
             "code": "belagavi.khanapur",
             "name": "Khanapur",
@@ -905,12 +845,7 @@
             "districtCode": "BIDAR",
             "active": true
         },
-        {
-            "code": "bidar.aurad",
-            "name": "Aurad",
-            "districtCode": "BIDAR",
-            "active": true
-        },
+        
         {
             "code": "bidar.kamal nagara",
             "name": "Kamal nagara",
@@ -941,12 +876,7 @@
             "districtCode": "CHITRADURGA",
             "active": true
         },
-        {
-            "code": "chitradurga.challakere",
-            "name": "Challakere",
-            "districtCode": "CHITRADURGA",
-            "active": true
-        },
+        
         {
             "code": "chitradurga.holalkere",
             "name": "Holalkere",
@@ -1043,18 +973,8 @@
             "districtCode": "HAVERI",
             "active": true
         },
-        {
-            "code": "haveri.shiggaon ",
-            "name": "Shiggaon ",
-            "districtCode": "HAVERI",
-            "active": true
-        },
-        {
-            "code": "haveri.hanagal",
-            "name": "Hanagal",
-            "districtCode": "HAVERI",
-            "active": true
-        },
+        
+        
         {
             "code": "haveri.savanur",
             "name": "Savanur",
@@ -1133,12 +1053,7 @@
             "districtCode": "KALABURAGI",
             "active": true
         },
-        {
-            "code": "kalaburagi.aland",
-            "name": "Aland",
-            "districtCode": "KALABURAGI",
-            "active": true
-        },
+        
         {
             "code": "koppal.kukanur",
             "name": "Kukanur",
@@ -1169,12 +1084,7 @@
             "districtCode": "KOPPAL",
             "active": true
         },
-        {
-            "code": "koppal.kushtagi",
-            "name": "Kushtagi",
-            "districtCode": "KOPPAL",
-            "active": true
-        },
+        
         {
             "code": "koppal.gangavathi",
             "name": "Gangavathi",
@@ -1199,24 +1109,14 @@
             "districtCode": "UTTARAKANNADA",
             "active": true
         },
-        {
-            "code": "uttarakannada.bhatkal",
-            "name": "Bhatkal",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
+        
         {
             "code": "uttarakannada.ankola",
             "name": "Ankola",
             "districtCode": "UTTARAKANNADA",
             "active": true
         },
-        {
-            "code": "uttarakannada.kumta",
-            "name": "Kumta",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
+        
         {
             "code": "uttarakannada.yallapur",
             "name": "Yallapur",
@@ -1235,12 +1135,7 @@
             "districtCode": "UTTARAKANNADA",
             "active": true
         },
-        {
-            "code": "uttarakannada.sirsi",
-            "name": "Sirsi",
-            "districtCode": "UTTARAKANNADA",
-            "active": true
-        },
+        
         {
             "code": "uttarakannada.halyal",
             "name": "Halyal",
@@ -1355,12 +1250,7 @@
             "districtCode": "YADGIR",
             "active": true
         },
-        {
-            "code": "yadgir.surapur",
-            "name": "Surapur",
-            "districtCode": "YADGIR",
-            "active": true
-        },
+        
         {
             "code": "yadgir.hunasagi",
             "name": "Hunasagi",
