@@ -13543,7 +13543,7 @@
         "contactNumber": "89048485078"
     },
     {
-        "code": "pg.ukhanapurbelagavi",
+        "code": "pg.ukhanapurhukkeri",
         "name": "U Khanapur",
         "description": "U Khanapur",
         "centreType": "PHC",
@@ -13563,7 +13563,7 @@
             "districtCode": "BELAGAVI",
             "districtName": "Belagavi",
             "blockCode": "belagavi.hukkeri",
-            "districtTenantCode": "pg.ukhanapurbelagavi",
+            "districtTenantCode": "pg.ukhanapurhukkeri",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
