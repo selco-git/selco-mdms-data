@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.huvin.hipparagi",
+  "tenantId": "pg.huvinhipparagi",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.huvin.hipparagi",
+        "code": "pg.huvinhipparagi",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -3648,7 +3648,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.huvin.hipparagi",
+        "code": "pg.huvinhipparagi",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
