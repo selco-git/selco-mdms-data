@@ -32515,7 +32515,7 @@
         "contactNumber": "9740480409"
     },
     {
-        "code": "pg.hayyal(b)",
+        "code": "pg.hayyalb",
         "name": "Hayyal(B)",
         "description": "Hayyal(B)",
         "centreType": "PHC",
@@ -32535,7 +32535,7 @@
             "districtCode": "YADGIR",
             "districtName": "Yadgir",
             "blockCode": "yadgir.shahapur",
-            "districtTenantCode": "pg.hayyal(b)",
+            "districtTenantCode": "pg.hayyalb",
             "regionName": null,
             "ulbGrade": null,
             "longitude": null,
