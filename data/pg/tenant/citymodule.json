@@ -702,7 +702,7 @@
           "code": "pg.neermanvi"
         },
         {
-          "code": "pg.pamankallursc"
+          "code": "pg.pamankallur"
         },
         {
           "code": "pg.sirwar"
@@ -751,7 +751,7 @@
             "code": "pg.hanumapur"
         },
         {
-            "code": "pg.hosursc"
+            "code": "pg.hosur"
         },
         {
             "code": "pg.idapanursc"
@@ -873,9 +873,7 @@
         {
             "code": "pg.goladinni"
         },
-        {
-            "code": "pg.hkotnekaldrroomsubcentre"
-        },
+        
         {
             "code": "pg.hallihosur"
         },
@@ -986,7 +984,7 @@
             "code": "pg.wandli"
         },
         {
-            "code": "pg.gabburphc"
+            "code": "pg.gabbur"
         },
         {
             "code": "pg.ganadala"
@@ -2738,9 +2736,7 @@
       {
           "code": "pg.navali"
       },
-      {
-          "code": "pg.mustursc"
-      },
+      
       {
           "code": "pg.balotagi"
       },
@@ -4329,7 +4325,7 @@
             "code": "pg.goladinni"
         },
         {
-            "code": "pg.hkotnekaldrroomsubcentre"
+            "code": "pg.hkotnekaldroomsubcentre"
         },
         {
             "code": "pg.hallihosur"
@@ -4378,7 +4374,7 @@
             "code": "pg.sadapur"
         },
         {
-            "code": "pg.sangapur"
+            "code": "pg.sangapurphc"
         },
         {
             "code": "pg.tadkalsc"
@@ -4448,7 +4444,7 @@
             "code": "pg.hbudoor"
         },
         {
-            "code": "pg.masarkalphc"
+            "code": "pg.masarkal"
         },
         {
             "code": "pg.koppar"
@@ -4583,7 +4579,7 @@
           "code": "pg.echanalphc"
         },
         {
-            "code": "pg.rodalabandasc"
+            "code": "pg.rodalabanda"
         },
         {
           "code": "pg.rodalabandaphc"

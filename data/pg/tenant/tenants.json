@@ -342,7 +342,7 @@
       "ddrName": null
     },
     "address": "Karnataka",
-    "contactNumber": "9632293765"
+    "contactNumber": "7899751921"
   },
   {
     "code": "pg.lbsnagarurbanprimaryhealthcentre",
@@ -648,7 +648,7 @@
       "ddrName": null
     },
     "address": "Karnataka",
-    "contactNumber": "7022370301"
+    "contactNumber": "9731944905"
   },
   {
     "code": "pg.gandhala",
@@ -682,7 +682,7 @@
       "ddrName": null
     },
     "address": "Karnataka",
-    "contactNumber": "8296511986"
+    "contactNumber": "9611115509"
   },
   {
     "code": "pg.ganadhal",
@@ -716,12 +716,12 @@
       "ddrName": null
     },
     "address": "Karnataka",
-    "contactNumber": "9611115509"
+    "contactNumber": "9611381245"
   },
   {
-    "code": "pg.mustursc",
-    "name": "Mustur SC",
-    "description": "Mustur SC",
+    "code": "pg.mustur",
+    "name": "Mustur",
+    "description": "Mustur",
     "centreType": "SC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -734,12 +734,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Mustur SC",
+      "name": "Mustur",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.devadurga",
-      "districtTenantCode": "pg.mustursc",
+      "districtTenantCode": "pg.mustur",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -753,9 +753,9 @@
     "contactNumber": "7975537552"
   },
   {
-    "code": "pg.masarkalphc",
-    "name": "Masarkal PHC",
-    "description": "Masarkal PHC",
+    "code": "pg.masarkal",
+    "name": "Masarkal",
+    "description": "Masarkal",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -768,12 +768,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Masarkal PHC",
+      "name": "Masarkal",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.devadurga",
-      "districtTenantCode": "pg.masarkalphc",
+      "districtTenantCode": "pg.masarkal",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -1127,9 +1127,9 @@
     "contactNumber": "6361563725"
   },
   {
-    "code": "pg.gabburphc",
-    "name": "Gabbur PHC",
-    "description": "Gabbur PHC",
+    "code": "pg.gabbur",
+    "name": "Gabbur",
+    "description": "Gabbur",
     "centreType": "PHC",
     "pincode": null,
     "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -1142,12 +1142,12 @@
       "Mon - Fri": "9.00 AM - 6.00 PM"
     },
     "city": {
-      "name": "Gabbur PHC",
+      "name": "Gabbur",
       "localName": null,
       "districtCode": "RAICHUR",
       "districtName": "Raichur",
       "blockCode": "raichur.devadurga",
-      "districtTenantCode": "pg.gabburphc",
+      "districtTenantCode": "pg.gabbur",
       "regionName": null,
       "ulbGrade": null,
       "longitude": null,
@@ -3508,7 +3508,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8431569099"
+      "contactNumber": "8105995416"
     },
     {
       "code": "pg.athukur",
@@ -3610,7 +3610,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8296937679"
+      "contactNumber": "8296969376"
     },
     {
       "code": "pg.dinni",
@@ -3749,9 +3749,9 @@
       "contactNumber": "8660339839"
     },
     {
-      "code": "pg.hosursc",
-      "name": "Hosur SC",
-      "description": "Hosur SC",
+      "code": "pg.hosur",
+      "name": "Hosur",
+      "description": "Hosur",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -3764,12 +3764,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Hosur SC",
+        "name": "Hosur",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.raichur",
-        "districtTenantCode": "pg.hosursc",
+        "districtTenantCode": "pg.hosur",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -3780,7 +3780,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9108069444"
+      "contactNumber": "8197595999"
     },
     {
       "code": "pg.idapanursc",
@@ -3950,7 +3950,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9741736912"
+      "contactNumber": "8861012192"
     },
     {
       "code": "pg.lkdoddi",
@@ -4290,7 +4290,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9972317515"
+      "contactNumber": "9164609538"
     },
     {
       "code": "pg.meerapur",
@@ -4392,7 +4392,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9591520986"
+      "contactNumber": "9902550728"
     },
     {
       "code": "pg.zaheerabaduphc",
@@ -5143,7 +5143,7 @@
       "contactNumber": "9845844124"
     },
     {
-      "code": "pg.hkotnekaldrroomsubcentre",
+      "code": "pg.hkotnekaldroomsubcentre",
       "name": "H.kotnekal Dr. Room Sub Centre",
       "description": "H.kotnekal Dr. Room Sub Centre",
       "centreType": "Sub centre",
@@ -5163,7 +5163,7 @@
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.hkotnekaldrroomsubcentre",
+        "districtTenantCode": "pg.hkotnekaldroomsubcentre",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5585,9 +5585,9 @@
       "contactNumber": "9902719772"
     },
     {
-      "code": "pg.pamankallursc",
-      "name": "Pamankallur SC",
-      "description": "Pamankallur SC",
+      "code": "pg.pamankallur",
+      "name": "Pamankallur",
+      "description": "Pamankallur",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -5600,12 +5600,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Pamankallur SC",
+        "name": "Pamankallur",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.pamankallursc",
+        "districtTenantCode": "pg.pamankallur",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5789,9 +5789,9 @@
       "contactNumber": "8951555886"
     },
     {
-      "code": "pg.sangapursc",
-      "name": "Sangapur SC",
-      "description": "Sangapur SC",
+      "code": "pg.sangapur",
+      "name": "Sangapur",
+      "description": "Sangapur",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -5804,12 +5804,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Sangapur SC",
+        "name": "Sangapur",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.sangapursc",
+        "districtTenantCode": "pg.sangapur",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -5820,12 +5820,12 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "8904108742"
+      "contactNumber": "8073563854"
     },
     {
-      "code": "pg.tadkalsc",
-      "name": "Tadkal SC",
-      "description": "Tadkal SC",
+      "code": "pg.tadkal",
+      "name": "Tadkal",
+      "description": "Tadkal",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -5838,12 +5838,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Tadkal SC",
+        "name": "Tadkal",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.manvi",
-        "districtTenantCode": "pg.tadkalsc",
+        "districtTenantCode": "pg.tadkal",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
@@ -6574,10 +6574,10 @@
       "code": "pg.hbudoor",
       "name": "H.budoor",
       "description": "H.budoor",
-      "centreType": "Sub centre",
+      "centreType": "PHC",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
-      "type": "SC",
+      "type": "PHC",
       "logoId": null,
       "imageId": null,
       "twitterUrl": null,
@@ -6772,7 +6772,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9480840820"
+      "contactNumber": "6362473811"
     },
     {
       "code": "pg.gorebalsindhanur",
@@ -6874,7 +6874,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980261372"
+      "contactNumber": "9900467904"
     },
     {
       "code": "pg.hanchnalcamp",
@@ -6976,7 +6976,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9743171785"
+      "contactNumber": "6361876105"
     },
     {
       "code": "pg.arahalli",
@@ -7792,7 +7792,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9980715507"
+      "contactNumber": "9880743447"
     },
     {
       "code": "pg.nagarapur",
@@ -7928,7 +7928,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9901546819"
+      "contactNumber": "8971351695"
     },
     {
       "code": "pg.chitapur",
@@ -8098,7 +8098,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9591447848"
+      "contactNumber": "6366401946"
     },
     {
       "code": "pg.gonawatla",
@@ -8404,7 +8404,7 @@
         "ddrName": null
       },
       "address": "Karnataka",
-      "contactNumber": "9740610700"
+      "contactNumber": "9632641658"
     },
     {
       "code": "pg.mudgala",
@@ -8543,9 +8543,9 @@
       "contactNumber": "9972031788"
     },
     {
-      "code": "pg.rodalabandasc",
-      "name": "Rodalabanda SC",
-      "description": "Rodalabanda SC",
+      "code": "pg.rodalabanda",
+      "name": "Rodalabanda",
+      "description": "Rodalabanda",
       "centreType": "Sub centre",
       "pincode": null,
       "domainUrl": "https://e4h-dev.selcofoundation.org",
@@ -8558,12 +8558,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Rodalabanda SC",
+        "name": "Rodalabanda",
         "localName": null,
         "districtCode": "RAICHUR",
         "districtName": "Raichur",
         "blockCode": "raichur.lingasugur",
-        "districtTenantCode": "pg.rodalabandasc",
+        "districtTenantCode": "pg.rodalabanda",
         "regionName": null,
         "ulbGrade": null,
         "longitude": null,
