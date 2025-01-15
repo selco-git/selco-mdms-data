@@ -421,6 +421,9 @@
           "code": "pg.dummy"
         },
         {
+            "code": "pg.mhadwar"
+        },
+        {
           "code": "pg.dummya"
         },
         {
@@ -3893,6 +3896,9 @@
         },
         {
           "code": "pg.chandrabandaprimaryhealthcentre"
+        },
+        {
+            "code": "pg.mhadwar"
         },
         {
           "code": "pg.shakawadisubcentre"
